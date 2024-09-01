@@ -2,7 +2,7 @@
 title: "Allocations Policy"
 year: 2024
 author: Argyle Street Housing Co-operative
-url: [allocations.md](https://github.com/ashcoop/policy_documents/edit/main/allocations.md)
+url: https://github.com/ashcoop/policy_documents/edit/main/allocations.md
 ---
 
 # ALLOCATIONS POLICY
