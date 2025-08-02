@@ -31,6 +31,7 @@ This particularly applies to appliances that use energy and/or water. These appl
 ## Reducing Carbon Emissions
 
 The Co-op will consider options to significantly reduce our carbon emissions. This will contribute to addressing the global issue of climate change, but will also future-proof ASH Co-op’s housing stock in light of a changing climate.
+
 This will take the form of a co-ordinated retrofit plan for the existing houses, as well as a commitment to ensuring any future build is as ecologically sustainable as possible. Retrofitting existing houses to reduce their energy use is one of the most efficient methods of reducing carbon emissions. Any such scheme should include measures such as insulation, efficient and sustainable energy supply and a reduction in water use. Any work undertaken should consider factors such as: Embodied energy (does a product require more energy to make then it will save over its lifetime?) Future Proofing (does a product mean that alterations are no longer possible in the future?) Security of Future Inputs (If a product requires an ongoing input, such as fuel, will that fuel be available in the future?)
 
 ## Social Sustainability
