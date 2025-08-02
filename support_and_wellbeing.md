@@ -61,8 +61,8 @@ Members are willing to take seriously the role of stepping in and supporting a c
 
 ### External facilitators
 
-The co-op could have external facilitators to call on for situations that are very complex, painful, or beyond the capacity of the Support & Wellbeing Group at any time. These facilitators would follow the agreed system and bring extra resources for holding conflict
-One idea for bringing in extra capacity is that ASH could link up with another Housing Co-op and set up an exchange. Members of the other Co-op could attend the training for Support & Wellbeing and then support ASH in situations where it feels helpful to have someone external. Similarly, members of ASH Support & Wellbeing could support the other Co-op when conflict arises there that they would like external support with.
+- The co-op could have external facilitators to call on for situations that are very complex, painful, or beyond the capacity of the Support & Wellbeing Group at any time. These facilitators would follow the agreed system and bring extra resources for holding conflict
+- One idea for bringing in extra capacity is that ASH could link up with another Housing Co-op and set up an exchange. Members of the other Co-op could attend the training for Support & Wellbeing and then support ASH in situations where it feels helpful to have someone external. Similarly, members of ASH Support & Wellbeing could support the other Co-op when conflict arises there that they would like external support with.
 
 ## Financial resources
 
