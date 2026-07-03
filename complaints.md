@@ -7,14 +7,12 @@ url:
 
 # CO-OP COMPLAINTS POLICY
 
-- Last Reviewed : January 2023
-- Last Amended : January 2023
-
 ## What is a complaint ?
 
 The Housing Ombudsman define a complaint as:
 
-An expression of dissatisfaction, however made, about the standard of service, actions or lack of action by the organisation, its own staff, or those acting on its behalf, affecting an individual resident or group of residents
+> An expression of dissatisfaction, however made, about the standard of service, actions or lack of action by the organisation, its own staff, or those acting on its behalf, affecting an individual resident or group of residents
+
 The Co-op welcomes complaints from members where they feel that the Co-op has failed in its delivery of excellent service and provision of housing. The Co-op will take complaints seriously and endeavour to respond quickly with appropriate action to remedy faults.
 
 The Housing Ombudsman can be contacted by a member/s at any time during a complaints process for support and advice. Contact information is provided at the bottom of this policy.
@@ -29,13 +27,13 @@ This policy is available to members where the Co-op has failed in its obligation
 
 ## What won't be dealt with under this policy
 
-Repetitive or Nuisance complaints: The Co-op is run by volunteers, and while it ensures capacity to deal with feedback and complaints, there is a limit to how much can be done before it impacts the capacity of the whole organisation. If a member engages in submitting large volumes of complaints or repeated complaints on the same subject, the Co-op will likely attempt to clarify the key matters under dispute, and address them as one complaint.
+**Repetitive or Nuisance complaints:** The Co-op is run by volunteers, and while it ensures capacity to deal with feedback and complaints, there is a limit to how much can be done before it impacts the capacity of the whole organisation. If a member engages in submitting large volumes of complaints or repeated complaints on the same subject, the Co-op will likely attempt to clarify the key matters under dispute, and address them as one complaint.
 
-Suggestions to change policy: The co-op provides many routes, via working group participation, informal feedback and general meetings, to suggest changes or improvements to policy and procedure. If the complaint is just a proposal or suggestion to change a policy, then it should be taken to a meeting or to the relevant working group.
+**Suggestions to change policy:** The co-op provides many routes, via working group participation, informal feedback and general meetings, to suggest changes or improvements to policy and procedure. If the complaint is just a proposal or suggestion to change a policy, then it should be taken to a meeting or to the relevant working group.
 
-Conflicts between members: Any disputes or issues with members breaking their tenancy agreement is dealt with under the Co-ops Support and Wellbeing processes, which offer support to resolve conflicts wherever possible and options to take further action if necessary.
+**Conflicts between members:** Any disputes or issues with members breaking their tenancy agreement is dealt with under the Co-ops Support and Wellbeing processes, which offer support to resolve conflicts wherever possible and options to take further action if necessary.
 
-Issues raised with properly taken decisions at General Meeting: The Co-op is democratically run by its residents. If you disagree with a decision that was properly presented and voted on at a meeting, then raising the matter at a future meeting is the correct forum. If however you believe the decision was not properly taken, or some aspect of the process was faulty, then you may pursue that via this policy.
+**Issues raised with properly taken decisions at General Meeting:** The Co-op is democratically run by its residents. If you disagree with a decision that was properly presented and voted on at a meeting, then raising the matter at a future meeting is the correct forum. If however you believe the decision was not properly taken, or some aspect of the process was faulty, then you may pursue that via this policy.
 
 The Co-op will always seek to explain to members bringing complaints if they fall into any of the categories above, and direct and support them to pursue the other channels available to deal with those matters.
 
@@ -46,6 +44,7 @@ Members may always approach the Housing Ombudsman if they believe the Co-op is u
 There are two possible stages that might be followed in dealing with a complaint about the Co-op's actions. At any point in the process members may engage with the Housing Ombudsman, who exist as an external independent body to support tenants with complaints. Contact details for the ombudsman are provided at the bottom of this policy.
 
 The Complaint stages are:
+
 1. **Stage 1 Complaint** - an investigation conducted by one of the Co-op's Complaint Co-ordinators and one additional member or housing co-ordinator, with a response and actions.
 2. **Stage 2 Complaint** - an investigation by a panel of members/external panellists, with a response of findings and recommendation to a co-op meeting of actions.
 
@@ -123,16 +122,17 @@ The Co-op will also consider reasonable requests for support while a complaint i
 
 Any member may contact the Housing Ombudsman at any stage of a complaints process, for support and advice. The Ombudsman will also handle complaints that remain unresolved after internal complaints processes have concluded. The Ombudsman can be contacted at:
 
-<address class="external-address">
-Tel: 0300 111 3000 (9.15am-5.15pm: Monday to Friday)<br>
-Email: info@housing-ombudsman.org.uk<br>
-Post: Housing Ombudsman Service, PO Box 152, Liverpool, L33 7WQ
-</address>
-[www.housing-ombudsman.org.uk ](https://www.housing-ombudsman.org.uk)
+**Tel:** 0300 111 3000 (9.15am-5.15pm: Monday to Friday)
+**Email:** [INSERT EMAIL — original was Cloudflare-obfuscated and couldn't be decoded here]
+**Post:** Housing Ombudsman Service, PO Box 152, Liverpool, L33 7WQ
 
+[https://www.housing-ombudsman.org.uk](https://www.housing-ombudsman.org.uk)
 
-## Review of this policy
+## Annual report and Review of this policy
 
-This policy must be reviewed annually through a self-assessment to ensure that it remains in line with the requirements of the Housing Ombudsman. The self-assessment form can be found on their website. The results of the self assessment should be discussed at the Co-op's Annual General Meeting
+This policy must be reviewed annually through a self-assessment to ensure that it remains in line with the requirements of the Housing Ombudsman. The self-assessment form can be found on their website. The Complaint Co-ordinators should ensure that an annual report of Complaint Handling over the year is produced. The Tenant Satisfaction Measures tenant survey contains questions for members to answer about complaint handling.
 
-[Read the 2023 self assessement here](https://governance.ash.coop/Code-Self-Assessment_Jan_2023.pdf)
+The results of the self assessment, tenant survey and annual report of complaint handling should be presented at the co-op's Annual General Meeting, and published on the website.
+
+- [Ombudsman code self assessment - 2025](https://governance.ash.coop/Self-Assessment-2025.pdf)
+- [Complaints Annual Report - 2025](https://governance.ash.coop/complaints_annual_report_2025.pdf)
