@@ -1,15 +1,10 @@
 ---
-title: "Drugs"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# ASH CO-OP DRUGS POLICY
-
 - Written : <date>20/9/2012</date>
 - Last Reviewed : <date>20/9/2012</date>
 - Last Amended : <date>20/9/2012</date>
+---
+
+# ASH CO-OP DRUGS POLICY
 
 ## Aims
 
