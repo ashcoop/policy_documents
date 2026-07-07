@@ -1,10 +1,6 @@
 # Anti-Discrimination Statement for Approved Contractors
 
-* **First Ratified:** *(Blank in source)*
-* **Last Reviewed:** *(Blank in source)*
-* **Last Amended:** *(Blank in source)*
 
----
 
 ## Purpose
 
