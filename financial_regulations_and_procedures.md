@@ -1,15 +1,10 @@
 ---
-title: "Finance Procedures"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# FINANCIAL REGULATIONS AND PROCEDURES
-
 - First Ratified : <date>5th November 2014</date>
 - Last Reviewed : <date>6th December 2018</date>
 - Last Amended : <date>6th December 2018</date>
+---
+
+# FINANCIAL REGULATIONS AND PROCEDURES
 
 ## Foreword
 
