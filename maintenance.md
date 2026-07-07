@@ -1,8 +1,10 @@
-# Repairs and Maintenance Policy
-
+---
 * **First Ratified:** *(Blank in source)*
 * **Last Reviewed:** *(Blank in source)*
 * **Last Amended:** *(Blank in source)*
+---
+
+# Repairs and Maintenance Policy
 
 ---
 ## What to do in emergencies
