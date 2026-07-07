@@ -1,15 +1,12 @@
 ---
-title: "Car Parks"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
+- First Ratified : <date>June 1997</date>
+- Last Reviewed : <date>June 1997</date>
+- Last Amended : <date>June 1997</date>
 ---
 
 # ASH CO-OP CAR PARK POLICY
 
-- First Ratified : <date>June 1997</date>
-- Last Reviewed : <date>June 1997</date>
-- Last Amended : <date>June 1997</date>
+
 
 ## Car Park Officer
 
