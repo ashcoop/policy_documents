@@ -1,15 +1,10 @@
 ---
-title: "Membership"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# ARGYLE STREET HOUSING CO-OP MEMBERSHIP POLICY
-
 - First Ratified : <date>2004</date>
 - Last Reviewed : <date>2004</date>
 - Last Amended : <date>2004</date>
+---
+
+# ARGYLE STREET HOUSING CO-OP MEMBERSHIP POLICY
 
 ## Criteria for membership
 
