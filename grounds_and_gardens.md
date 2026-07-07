@@ -1,14 +1,9 @@
 ---
-title: "Grounds"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
+- Last Reviewed : <date>June 2003</date>
+- Last Amended : <date>June 2003</date>
 ---
 
 # GARDENS POLICY
-
-- Last Reviewed : <date>June 2003</date>
-- Last Amended : <date>June 2003</date>
 
 ## Gardens Officers
 
