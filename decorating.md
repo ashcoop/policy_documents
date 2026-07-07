@@ -1,15 +1,11 @@
 ---
-title: "Decorating"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# PAINT POLICY
 
 - First Ratified : <date>3rd August 2011</date>
 - Last Reviewed : <date>August 2024</date>
 - Last Amended : <date>14 August 2024</date>
+---
+
+# PAINT POLICY
 
 ## Outline of Paint Policy
 
