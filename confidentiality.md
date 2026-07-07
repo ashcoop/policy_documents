@@ -1,15 +1,10 @@
 ---
-title: "Confidentiality"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# CONFIDENTIALITY COMMUNITY AGREEMENT
-
 - First Ratified : <date>01/02/2018</date>
 - Last Reviewed : <date>01/02/2018</date>
 - Last Amended : <date>01/02/2018</date>
+---
+
+# CONFIDENTIALITY COMMUNITY AGREEMENT
 
 ## Who this agreement is for
 
