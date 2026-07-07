@@ -1,15 +1,10 @@
 ---
-title: "Equality and Diversity"
-year: 2024
-author: Argyle Street Housing Co-operative
-url:
----
-
-# EQUALITY AND DIVERSITY POLICY
-
 - First Ratified : <date>2016</date>
 - Last Reviewed : <date>2016</date>
 - Last Amended : <date>2016</date>
+---
+
+# EQUALITY AND DIVERSITY POLICY
 
 ## Introduction
 
