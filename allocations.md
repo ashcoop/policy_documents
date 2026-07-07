@@ -7,10 +7,6 @@ url: https://github.com/ashcoop/policy_documents/edit/main/allocations.md
 
 # ALLOCATIONS POLICY
 
-- First Ratified : <date></date> 
-- Last Reviewed : <date></date>
-- Last Amended : <date></date>
-
 ## Allocations Policy Statement
 
 The Allocations Group co-ordinates our process for application and acceptance into membership of the Co-op. This group is often the first point of contact for applicants, and aims to inform and educate prospective members so that they feel capable of getting involved and becoming part of the community. They also provide assistance to members seeking to fill voids in their shared houses in a timely manner.
