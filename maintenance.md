@@ -1,7 +1,7 @@
 ---
-* **First Ratified:** *(Blank in source)*
-* **Last Reviewed:** *(Blank in source)*
-* **Last Amended:** *(Blank in source)*
+First Ratified:** *(Blank in source)*
+Last Reviewed:** *(Blank in source)*
+Last Amended:** *(Blank in source)*
 ---
 
 # Repairs and Maintenance Policy
