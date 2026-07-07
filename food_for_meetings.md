@@ -1,15 +1,11 @@
 ---
-title: "Food at Meetings"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
+- First Ratified : 06/06/2012
+- Last Reviewed : ?
+- Last Amended : 01/05/2024
 ---
 
 # REIMBURSEMENT FOR FOOD AT MEETINGS POLICY
 
-- First Ratified : 06/06/2012
-- Last Reviewed : ?
-- Last Amended : 01/05/2024
 
 Each member that attends a GM remotely will be allowed to claim back costs towards a meal. This will be £7 per member, and can only be claimed via reimbursement after the meeting.
 
