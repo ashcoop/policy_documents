@@ -1,15 +1,11 @@
 ---
-title: "Education"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# EDUCATION POLICY
 
 - First Ratified :<date></date>
 - Last Reviewed :<date></date>
 - Last Amended :<date></date>
+---
+
+# EDUCATION POLICY
 
 ## Aims
 
