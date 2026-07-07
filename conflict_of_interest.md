@@ -1,15 +1,10 @@
 ---
-title: "Conduct"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# CONFLICTS OF INTEREST AND CONDUCT OF MEMBERS POLICY
-
 - First Ratified : <date>25.9.97</date>
 - Last Reviewed : <date>25.9.97</date>
 - Last Amended : <date>25.9.97</date>
+---
+
+# CONFLICTS OF INTEREST AND CONDUCT OF MEMBERS POLICY
 
 ## Introduction
 
