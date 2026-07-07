@@ -1,15 +1,12 @@
 ---
-title: "Asbestos"
-year: 2024
-author: Argyle Street Housing Co-operative
-url:
----
-
-# ASBESTOS MANAGEMENT POLICY
 
 - First Ratified : <date>17/08/2011</date>
 - Last Reviewed : <date>17/08/2011</date>
 - Last Amended : <date>17/08/2011</date>
+---
+
+# ASBESTOS MANAGEMENT POLICY
+
 
 ## Introduction
 
