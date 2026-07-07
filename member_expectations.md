@@ -1,15 +1,10 @@
 ---
-title: "Member Expectations"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# ASH CO-OP MEMBER EXPECTATIONS
-
 - First Ratified : <date>December 2023</date>
 - Last Reviewed : <date>December 2023</date>
 - Last Amended : <date>December 2023</date>
+---
+
+# ASH CO-OP MEMBER EXPECTATIONS
 
 ## Introduction
 
