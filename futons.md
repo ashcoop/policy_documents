@@ -1,10 +1,10 @@
-# Futon Policy
-
-* **First Ratified:** 3rd February 2010
-* **Last Reviewed:** Jan 2021
-* **Last Amended:** Jan 2021
-
 ---
+- First Ratified:** 3rd February 2010
+- Last Reviewed:** Jan 2021
+- Last Amended:** Jan 2021
+---
+
+# Futon Policy
 
 ## Entitlement
 
