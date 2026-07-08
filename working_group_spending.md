@@ -1,15 +1,10 @@
 ---
-title: "Spending"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# SPENDING POLICY FOR WORKING GROUPS OTHER THAN MAINTENANCE
-
 - First Ratified : <date>7th September 2016</date>
 - Last Reviewed : <date>7th September 2016</date>
 - Last Amended : <date>7th September 2016</date>
+---
+
+# SPENDING POLICY FOR WORKING GROUPS OTHER THAN MAINTENANCE
 
 ## Policy Statement
 
