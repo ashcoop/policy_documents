@@ -1,15 +1,8 @@
 ---
-title: "Working Groups"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
+- First Ratified : <date>2021</date>
 ---
 
 # WORKING GROUPS BLUEPRINT
-
-- Written : <date>2021</date>
-- Last Reviewed : <date>April 2021</date>
-- Last Amended : <date>April 2021</date>
 
 ## Policy statement
 
