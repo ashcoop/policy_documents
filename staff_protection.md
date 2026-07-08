@@ -1,15 +1,10 @@
 ---
-title: "Staff Protection"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# STAFF PROTECTION POLICY
-
 - First Ratified : <date>4th February 2016</date>
 - Last Reviewed : <date>2nd March 2016</date>
 - Last Amended : <date>2nd March 2016</date>
+---
+
+# STAFF PROTECTION POLICY
 
 ## Introduction
 
