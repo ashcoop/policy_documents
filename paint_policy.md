@@ -1,8 +1,11 @@
-# Paint Policy
+---
 
-* **First Ratified:** 3rd August 2011
-* **Last Reviewed:** 3rd August 2011
-* **Last Amended:** 3rd August 2011
+- First Ratified:** 3rd August 2011
+- Last Reviewed:** 3rd August 2011
+- Last Amended:** 3rd August 2011
+---
+
+# Paint Policy
 
 ## Outline of Paint Policy
 
