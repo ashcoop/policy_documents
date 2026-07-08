@@ -1,8 +1,12 @@
+---
+- First Ratified:** 4th March 2010
+- Last Reviewed:** 4th March 2010
+- Last Amended:** 4th March 2010
+---
+
 # ASH Co-op Privacy Notice
 
-* **First Ratified:** 4th March 2010
-* **Last Reviewed:** 4th March 2010
-* **Last Amended:** 4th March 2010
+
 
 ---
 
