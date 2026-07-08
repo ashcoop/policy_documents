@@ -1,8 +1,4 @@
----
-- First Ratified : 06/06/2012
-- Last Reviewed : ?
-- Last Amended : 01/05/2024
----
+
 
 # REIMBURSEMENT FOR FOOD AT MEETINGS POLICY
 
