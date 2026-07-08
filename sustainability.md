@@ -1,15 +1,10 @@
 ---
-title: "Sustainability"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# SUSTAINABILITY POLICY
-
 - First Ratified : <date>4th March 2010</date>
 - Last Reviewed : <date>4th March 2010</date>
 - Last Amended : <date>4th March 2010</date>
+---
+
+# SUSTAINABILITY POLICY
 
 ## Outline
 
