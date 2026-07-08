@@ -1,15 +1,11 @@
 ---
-title: "Secretarial"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# SECRETARIAL POLICY
 
 - First Ratified : <date>1-5-2019</date>
 - Last Reviewed : <date>March 2022</date>
 - Last Amended : <date>March 2022</date>
+---
+
+# SECRETARIAL POLICY
 
 ## Secretarial Policy Statement
 
