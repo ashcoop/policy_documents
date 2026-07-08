@@ -1,15 +1,12 @@
 ---
-title: "Rent Setting"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
+- First Ratified : <date>11.11.98</date>
+- Last Reviewed : <date>1.3.2000</date>
+- Last Amended : <date>1.3.2000</date>
 ---
 
 # RENT SETTING POLICY
 
-- First Ratified : <date>11.11.98</date>
-- Last Reviewed : <date>1.3.2000</date>
-- Last Amended : <date>1.3.2000</date>
+
 
 ## Housing Corporation requirements
 
