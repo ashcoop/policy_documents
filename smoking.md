@@ -1,15 +1,10 @@
 ---
-title: "Smoking"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# POLICY ON SMOKING
-
 - First ratified : <date>08.08.2001</date>
 - Last Reviewed : <date>08.08.2001</date>
 - Last Amended : <date>08.08.2001</date>
+---
+
+# POLICY ON SMOKING
 
 ## Introduction
 
