@@ -1,15 +1,10 @@
 ---
-title: "Welfare"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# SUPPORT AND WELLBEING POLICY
-
 - First Ratified : <date>June 2021</date>
 - Last Reviewed : <date>December 2023</date>
 - Last Amended : <date>December 2023</date>
+---
+
+# SUPPORT AND WELLBEING POLICY
 
 ## Aims
 
