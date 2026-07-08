@@ -1,15 +1,12 @@
 ---
-title: "Workshop"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
+- First Ratified : <date>2021</date>
+- Last Reviewed : <date>2021</date>
+- Last Amended : <date>2021</date>
 ---
 
 # WORKSHOP USE OF SPACE AGREEMENT
 
-- First Ratified : <date>2021</date>
-- Last Reviewed : <date>2021</date>
-- Last Amended : <date>2021</date>
+
 
 This is a shared agreement for the Workshop which allows sets out expectations and expected behaviour for members wishing to access and use the space.
 
