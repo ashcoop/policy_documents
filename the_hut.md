@@ -1,15 +1,10 @@
 ---
-title: "The Hut"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# USE OF THE HUT AGREEMENT
- 
 - First Ratified : <date>1st June 2017</date>
 - Last Reviewed : <date>1st June 2017</date>
 - Last Amended : <date>1st June 2017</date>
+---
+
+# USE OF THE HUT AGREEMENT
 
 The Hut is a shared community resource, used for meetings, socialising, band and music practice, games, cleaning, arts and crafts, meetings by external groups, reading, a quiet space, a noisy space, etc. etc.
 
