@@ -1,15 +1,12 @@
 ---
-title: "Rent"
-year: 2024
-author: Argyle Street Housing Co-operative
-url: 
----
-
-# ASH CO-OP RENT COLLECTION AND ARREARS RECOVERY POLICY
 
 - First Ratified : <date>2013</date>
 - Last Reviewed : <date>2013</date>
 - Last Amended : <date>2013</date>
+---
+
+# ASH CO-OP RENT COLLECTION AND ARREARS RECOVERY POLICY
+
 
 ## Your Rent
 
