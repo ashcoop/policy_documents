@@ -1,5 +1,5 @@
 ---
-<set>date metadata in django admin</set>
+metadata: set date in django admin
 ---
 # FURNITURE AND APPLIANCES POLICY
 
