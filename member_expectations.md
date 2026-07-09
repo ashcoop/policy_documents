@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>December 2023</date>
-- Last Reviewed : <date>December 2023</date>
-- Last Amended : <date>December 2023</date>
+First Ratified: 00/12/2023
 ---
 
 # ASH CO-OP MEMBER EXPECTATIONS
