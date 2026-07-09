@@ -1,15 +1,8 @@
 ---
-title: "Allocations Process"
-year: 2024
-author: Argyle Street Housing Co-operative
-url:
+First Ratified : May 2017
 ---
 
 # THE ALLOCATIONS PROCESS
-
-- First Ratified : <date>May 2017</date>
-- Last Reviewed : <date>May 2017</date>
-- Last Amended : <date>May 2017</date>
 
 The allocations co-ordinator is responsible for over-seeing the allocations process. Tasks in grey boxes will usually be done by the office, but should be done by Allocations Co-ordinators when they have the time.
 
