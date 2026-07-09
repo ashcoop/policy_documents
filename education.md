@@ -1,8 +1,5 @@
 ---
-
-- First Ratified :<date></date>
-- Last Reviewed :<date></date>
-- Last Amended :<date></date>
+First Ratified: unknown
 ---
 
 # EDUCATION POLICY
