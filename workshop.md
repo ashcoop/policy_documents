@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>2021</date>
-- Last Reviewed : <date>2021</date>
-- Last Amended : <date>2021</date>
+First Ratified: 2021
 ---
 
 # WORKSHOP USE OF SPACE AGREEMENT
