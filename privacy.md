@@ -1,14 +1,9 @@
 ---
-- First Ratified:** 4th March 2010
-- Last Reviewed:** 4th March 2010
-- Last Amended:** 4th March 2010
+First Ratified: 04/03/2010
 ---
 
 # ASH Co-op Privacy Notice
 
-
-
----
 
 ## What is the purpose of this document?
 
@@ -24,8 +19,6 @@ This notice does not form part of any contract with you. We may update this noti
 
 It is important that you read this notice, together with any other privacy notice we may provide on specific occasions when we are collecting or processing personal information about you, so that you are aware of how and why we are using such information.
 
----
-
 ## Data protection principles
 
 The personal information we hold about you must be:
@@ -35,8 +28,6 @@ The personal information we hold about you must be:
 3. Relevant to the purposes we have told you about and limited only to those purposes.
 4. Kept only as long as necessary for the purposes we have told you about.
 5. Kept securely.
-
----
 
 ## Legal bases for processing data
 
@@ -52,7 +43,6 @@ We may also use your personal information in the following situations, which are
 1. Where we need to protect your interests (or someone else's interests).
 2. Where it is needed in the public interest or for official purposes.
 
----
 
 ## What data we process and why
 
