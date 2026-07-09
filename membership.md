@@ -23,7 +23,7 @@ You cannot become a member if:
 ## What is housing need?
 
 The following factors will be considered:
-* Current circumstances
+### Current circumstances
  * homelessness;
  * insecurity of present home
  * threatened homelessness - including being under Notice To Quit / Possession Order;
@@ -33,7 +33,7 @@ The following factors will be considered:
  * current home not affordable to applicant.
  * length of time the applicant has lived in their current circumstances
 
-- Other options open to the applicant
+### Other options open to the applicant
  - Can applicant afford housing not accessible to those on lower incomes?
  - Could applicant stay in current housing?
 
