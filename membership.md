@@ -23,15 +23,15 @@ You cannot become a member if:
 ## What is housing need?
 
 The following factors will be considered:
-- Current circumstances
- - homelessness;
- - insecurity of present home
- - threatened homelessness - including being under Notice To Quit / Possession Order;
- - overcrowding at present accommodation;
- - poor state of repair or lack of amenities at present accommodation;
- - housing need arising from relationship difficulties
- - current home not affordable to applicant.
- - length of time the applicant has lived in their current circumstances
+* Current circumstances
+ * homelessness;
+ * insecurity of present home
+ * threatened homelessness - including being under Notice To Quit / Possession Order;
+ * overcrowding at present accommodation;
+ * poor state of repair or lack of amenities at present accommodation;
+ * housing need arising from relationship difficulties
+ * current home not affordable to applicant.
+ * length of time the applicant has lived in their current circumstances
 
 - Other options open to the applicant
  - Can applicant afford housing not accessible to those on lower incomes?
