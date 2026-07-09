@@ -1,12 +1,9 @@
 ---
-First Ratified:** *(Blank in source)*
-Last Reviewed:** *(Blank in source)*
-Last Amended:** *(Blank in source)*
+First Ratified: unknonwn
 ---
 
 # Repairs and Maintenance Policy
 
----
 ## What to do in emergencies
 
 1. **Emergency Contact Procedures:**
@@ -20,8 +17,6 @@ Last Amended:** *(Blank in source)*
 
 2. A laminated notice giving information on what to do in an emergency will be provided to each house. This information will also be included in the member's handbook.
 
----
-
 ## Responsibility
 
 The Co-op is responsible for the exterior and the structure of Co-op property, as well as installations for the supply of water, gas and electricity. Basins, sinks, baths, toilets, central heating and fitted heaters are also the responsibility of the Co-op. The Co-op is also responsible for all fittings supplied by the Co-op.
@@ -32,8 +27,6 @@ It is a condition of membership that individual Co-op members are responsible fo
 
 Individual Co-op members are responsible for ensuring that there is no damage to Co-op property due to negligence or abuse. Damage resulting from negligence or abuse should be paid for by the members responsible.
 
----
-
 ## Do it Yourself, work done by Co-op members, Co-op tools
 
 The Co-op encourages members to undertake their own repairs, except in the areas of gas, electricity and water, where work must only be done by members with the relevant skills and qualifications.
@@ -43,8 +36,6 @@ In other cases, repairs still have to be reported to and authorised by the Maint
 **Co-op tools:** are stored by the Maintenance Co-ordinators from whom they must be borrowed. Any member borrowing a Co-op tool must sign for it and return it. Tools must only be borrowed for use on Co-op property.
 
 All tools must be signed in on return. Tools can be borrowed for a maximum of 72 hours. On return, the Maintenance Co-ordinator will check them for damage etc. It is critical that tools are returned on time. Any member damaging Co-op tools will be charged for repair/replacement. Any member not returning items borrowed from the maintenance group and/or damaging them and not being able to pay for repairs shall not be allowed to use items in the future.
-
----
 
 ## Response Times
 
