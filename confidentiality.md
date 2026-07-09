@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>01/02/2018</date>
-- Last Reviewed : <date>01/02/2018</date>
-- Last Amended : <date>01/02/2018</date>
+- First Ratified : 01/02/2018
 ---
 
 # CONFIDENTIALITY COMMUNITY AGREEMENT
