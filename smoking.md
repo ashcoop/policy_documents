@@ -1,7 +1,5 @@
 ---
-- First ratified : <date>08.08.2001</date>
-- Last Reviewed : <date>08.08.2001</date>
-- Last Amended : <date>08.08.2001</date>
+First ratified: 08.08.2001
 ---
 
 # POLICY ON SMOKING
