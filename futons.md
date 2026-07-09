@@ -1,8 +1,10 @@
 ---
-- First Ratified: 3rd February 2010
+First Ratified: 03/02/2010
+---
+
 - Last Reviewed: Jan 2021
 - Last Amended: Jan 2021
----
+
 
 # Futon Policy
 
