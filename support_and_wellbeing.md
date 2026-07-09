@@ -1,8 +1,9 @@
 ---
-- First Ratified : <date>June 2021</date>
+First Ratified : 00/06/2021
+---
+
 - Last Reviewed : <date>December 2023</date>
 - Last Amended : <date>December 2023</date>
----
 
 # SUPPORT AND WELLBEING POLICY
 
