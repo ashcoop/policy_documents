@@ -1,6 +1,5 @@
 ---
-- Last Reviewed : <date>June 2003</date>
-- Last Amended : <date>June 2003</date>
+First Ratified: 04/06/1997
 ---
 
 # GARDENS POLICY
