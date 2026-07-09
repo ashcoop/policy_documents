@@ -1,5 +1,5 @@
 ---
-- First Ratified 2004
+First Ratified: 2004
 ---
 # ASH Co-op Committee Policy
 ## Rules, Standing Orders, Officers, Groups and Responsibilities
