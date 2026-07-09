@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>4th March 2010</date>
-- Last Reviewed : <date>4th March 2010</date>
-- Last Amended : <date>4th March 2010</date>
+First Ratified: 04/03/2010
 ---
 
 # SUSTAINABILITY POLICY
