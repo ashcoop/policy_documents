@@ -1,5 +1,5 @@
 ---
-- First Ratified : <date>2021</date>
+First Ratified: 10/01/2021
 ---
 
 # WORKING GROUPS BLUEPRINT
