@@ -9,6 +9,7 @@
 ## Criteria for membership
 
 Argyle Street Housing Co-op is a fully mutual housing co-operative; only members can become tenants and we can only give tenancies to members. 
+
 Members must be:
 - in housing need
 - willing to accept the responsibilities of membership
