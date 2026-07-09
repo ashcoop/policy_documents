@@ -1,7 +1,5 @@
 ---
-- Written : <date>20/9/2012</date>
-- Last Reviewed : <date>20/9/2012</date>
-- Last Amended : <date>20/9/2012</date>
+First Raftified: 20/09/2012
 ---
 
 # ASH CO-OP DRUGS POLICY
