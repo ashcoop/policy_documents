@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>7th September 2016</date>
-- Last Reviewed : <date>7th September 2016</date>
-- Last Amended : <date>7th September 2016</date>
+First Ratified: 07/10/2016
 ---
 
 # SPENDING POLICY FOR WORKING GROUPS OTHER THAN MAINTENANCE
