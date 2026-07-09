@@ -1,3 +1,9 @@
+---
+- First Ratified 2004
+---
+# ASH Co-op Committee Policy
+## Rules, Standing Orders, Officers, Groups and Responsibilities
+
 ## Introduction
 
 Argyle Street Housing Co-operative Limited (ASH Co-op.) was established between 1977 and 1981 by co-operation between local young people in housing need and the Society for Co-operative Dwellings, with funding from the Housing Corporation, to meet the housing needs of young, single, homeless people in Cambridge. Its 23 units of accommodation provide 96 dwellings within shared houses and one-bedroom flats. It is a fully mutual housing co-operative. This is housing where democratic management is ensured by all members of the management company (ASH Co-op. Ltd) also being tenants of ASH Co-op. and all tenants being required to be members of ASH Co-op.
