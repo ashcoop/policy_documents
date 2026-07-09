@@ -1,5 +1,5 @@
 ---
-- First Ratified : 01/02/2018
+First Ratified : 01/02/2018
 ---
 
 # CONFIDENTIALITY COMMUNITY AGREEMENT
