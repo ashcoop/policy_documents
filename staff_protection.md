@@ -1,9 +1,9 @@
 ---
-- First Ratified : <date>4th February 2016</date>
-- Last Reviewed : <date>2nd March 2016</date>
-- Last Amended : <date>2nd March 2016</date>
+First Ratified: 04/02/2016
 ---
 
+- Last Reviewed : <date>2nd March 2016</date>
+- Last Amended : <date>2nd March 2016</date>
 # STAFF PROTECTION POLICY
 
 ## Introduction
