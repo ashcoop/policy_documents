@@ -1,5 +1,5 @@
 ---
-year: 2024
+First Ratified: 2024
 ---
 
 # ASH Coop Bicycles Policy
