@@ -2,7 +2,7 @@
 First Ratified: 06/10/1999
 ---
 - Last Reviewed : <date>2004</date>
-# ASH CO-OP MEMBERSHIP POLICY
+# Argyle Street Housing Co-op Membership Policy
 
 ## Criteria for membership
 
