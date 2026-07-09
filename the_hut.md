@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>1st June 2017</date>
-- Last Reviewed : <date>1st June 2017</date>
-- Last Amended : <date>1st June 2017</date>
+First Ratified: 01/06/2017
 ---
 
 # USE OF THE HUT AGREEMENT
