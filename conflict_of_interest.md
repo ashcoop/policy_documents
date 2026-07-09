@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>25.9.97</date>
-- Last Reviewed : <date>25.9.97</date>
-- Last Amended : <date>25.9.97</date>
+First Ratified : 25.09.97
 ---
 
 # CONFLICTS OF INTEREST AND CONDUCT OF MEMBERS POLICY
