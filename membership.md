@@ -1,9 +1,7 @@
 ---
-- First Ratified : <date>2004</date>
-- Last Reviewed : <date>2004</date>
-- Last Amended : <date>2004</date>
+First Ratified: 06/10/1999
 ---
-
+- Last Reviewed : <date>2004</date>
 # ASH CO-OP MEMBERSHIP POLICY
 
 ## Criteria for membership
