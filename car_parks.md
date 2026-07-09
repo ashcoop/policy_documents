@@ -1,5 +1,5 @@
 ---
-- First Ratified : June 1997
+First Ratified : June 1997
 ---
 
 # ASH CO-OP CAR PARK POLICY
