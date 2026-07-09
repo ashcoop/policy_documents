@@ -12,7 +12,7 @@ The Co-op shall provide paint for the redecoration of internal areas. The Paint 
 
 ## Bedrooms
 
-When a member moves into the Co-op or transfers within Sa house or between houses, they will be entitled to enough paint to decorate the room (see entitlement). The Co-op will not meet the cost of further redecoration by the same member of the same room for at least another 3 years. The Paint Co-ordinator and/or Maintenance Co-ordinator can overrule this if there are extenuating circumstances
+When a member moves into the Co-op or transfers within a house or between houses, they will be entitled to enough paint to decorate the room (see entitlement). The Co-op will not meet the cost of further redecoration by the same member of the same room for at least another 3 years. The Paint Co-ordinator and/or Maintenance Co-ordinator can overrule this if there are extenuating circumstances
 
 ## Communal Areas
 
