@@ -1,5 +1,5 @@
 ---
-First Ratified : 25.09.97
+First Ratified : 25/09/97
 ---
 
 # CONFLICTS OF INTEREST AND CONDUCT OF MEMBERS POLICY
