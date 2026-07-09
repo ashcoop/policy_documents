@@ -1,8 +1,5 @@
 ---
-
-- First Ratified : <date>2013</date>
-- Last Reviewed : <date>2013</date>
-- Last Amended : <date>2013</date>
+First Ratified: 2013
 ---
 
 # ASH CO-OP RENT COLLECTION AND ARREARS RECOVERY POLICY
