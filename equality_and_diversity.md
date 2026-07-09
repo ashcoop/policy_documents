@@ -1,7 +1,5 @@
 ---
-- First Ratified : <date>2016</date>
-- Last Reviewed : <date>2016</date>
-- Last Amended : <date>2016</date>
+First Ratified: 2016
 ---
 
 # EQUALITY AND DIVERSITY POLICY
