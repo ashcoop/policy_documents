@@ -1,9 +1,8 @@
 ---
-- First Ratified: <date>17/08/2011</date>
+First Ratified: 17/08/2011
 ---
 
 # ASBESTOS MANAGEMENT POLICY
-
 
 ## Introduction
 
