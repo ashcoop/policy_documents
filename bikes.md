@@ -1,8 +1,5 @@
 ---
-title: "Bicycles"
 year: 2024
-author: Argyle Street Housing Co-operative
-url: 
 ---
 
 # ASH Coop Bicycles Policy
