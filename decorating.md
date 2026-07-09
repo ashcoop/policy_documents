@@ -1,11 +1,9 @@
 ---
-
-- First Ratified : <date>3rd August 2011</date>
-- Last Reviewed : <date>August 2024</date>
-- Last Amended : <date>14 August 2024</date>
+First Ratified: 03/09/2011
 ---
 
 # PAINT POLICY
+- Last Amended : <date>14 August 2024</date>
 
 ## Outline of Paint Policy
 
