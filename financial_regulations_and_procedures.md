@@ -1,10 +1,11 @@
 ---
-- First Ratified : <date>5th November 2014</date>
-- Last Reviewed : <date>6th December 2018</date>
-- Last Amended : <date>6th December 2018</date>
+First Ratified: 05/11/2014
 ---
 
 # FINANCIAL REGULATIONS AND PROCEDURES
+
+- Last Reviewed : <date>6th December 2018</date>
+- Last Amended : <date>6th December 2018</date>
 
 ## Foreword
 
