@@ -1,9 +1,9 @@
 ---
+First Ratified: 01-05-2019
+---
 
-- First Ratified : <date>1-5-2019</date>
 - Last Reviewed : <date>March 2022</date>
 - Last Amended : <date>March 2022</date>
----
 
 # SECRETARIAL POLICY
 
