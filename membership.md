@@ -4,7 +4,7 @@
 - Last Amended : <date>2004</date>
 ---
 
-# ASH CO-OP MEMBERSHIP POLICY
+# ARGYLE STREET HOUSING CO-OP MEMBERSHIP POLICY
 
 ## Criteria for membership
 
