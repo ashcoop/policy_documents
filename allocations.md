@@ -1,10 +1,11 @@
 ---
 # don't edit the first ratified date unless you are correcting
 first ratifed: unknown 
-# we
+# we might not need this one.
 last reviewed: unknown 
-# date of the GM where the amendments were ratified
-last updated: unknown 
+# date of the GM where the amendments were ratified.
+last updated: unknown
+
 ---
 
 # ALLOCATIONS POLICY
