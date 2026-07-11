@@ -1,5 +1,7 @@
 ---
-first ratifed: unknown
+first ratifed: unknown # don't edit this line
+last reviewed: unknown # we
+last updated: unknown # date of the GM where the amendments were ratified
 ---
 
 # ALLOCATIONS POLICY
