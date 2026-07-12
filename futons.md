@@ -1,10 +1,14 @@
 ---
-First Ratified: 03/02/2010
+
+first_ratified: 03/02/2010 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: Jan 2021
+
+# date of the GM where the amendments were ratified.
+last_updated: Jan 2021
+
 ---
-
-- Last Reviewed: Jan 2021
-- Last Amended: Jan 2021
-
 
 # Futon Policy
 
