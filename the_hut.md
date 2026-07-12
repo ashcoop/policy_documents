@@ -1,5 +1,13 @@
 ---
-First Ratified: 01/06/2017
+
+first_ratified: 01/06/2017 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 01/06/2017
+
+# date of the GM where the amendments were ratified.
+last_updated: 01/06/2017
+
 ---
 
 # USE OF THE HUT AGREEMENT
