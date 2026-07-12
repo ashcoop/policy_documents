@@ -1,13 +1,13 @@
 ---
-# don't edit the first_ratified
+# please don't alter this field
 first_ratifed: unknown 
-#
-# we might not need this one
+
+# date of last formal review
 last_reviewed: unknown
-#
+
 # date of the GM where the amendments were ratified.
 last_updated: unknown
-#
+
 ---
 
 # ALLOCATIONS POLICY
