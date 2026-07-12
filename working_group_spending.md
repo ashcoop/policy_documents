@@ -1,8 +1,4 @@
 ---
-First Ratified: 
----
-
----
 
 first_ratified: 07/10/2016 # (please don't alter this field)
 
