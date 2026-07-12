@@ -1,7 +1,4 @@
 ---
-First Ratified: 04/06/1997
----
----
 
 first_ratified: 2024 # (please don't alter this field)
 
