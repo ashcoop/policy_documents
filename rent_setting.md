@@ -1,10 +1,14 @@
 ---
-First Ratified: 11.11.1998
----
 
-# RENT SETTING POLICY
-- Last Reviewed : <date>1.3.2000</date>
-- Last Amended : <date>1.3.2000</date>
+first_ratified: 11.11.1998 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 01.03.2000
+
+# date of the GM where the amendments were ratified.
+last_updated: 01.03.2000
+
+---
 
 
 ## Housing Corporation requirements
