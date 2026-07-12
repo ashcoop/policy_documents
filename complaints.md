@@ -1,6 +1,17 @@
 ---
 First Ratified: 14/07/2016
 ---
+---
+
+first_ratified: 2024 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: unknown
+
+# date of the GM where the amendments were ratified.
+last_updated: unknown
+
+---
 
 # CO-OP COMPLAINTS POLICY
 
