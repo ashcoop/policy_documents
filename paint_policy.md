@@ -1,8 +1,13 @@
 ---
 
-- First Ratified:** 3rd August 2011
-- Last Reviewed:** 3rd August 2011
-- Last Amended:** 3rd August 2011
+first_ratified: 03/08/2011 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 03/08/2011
+
+# date of the GM where the amendments were ratified.
+last_updated: 03/08/2011
+
 ---
 
 # Paint Policy
