@@ -1,6 +1,15 @@
 ---
-First Ratified: 2021
+
+first_ratified: 10/01/2021 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 01/06/2017
+
+# date of the GM where the amendments were ratified.
+last_updated: 01/06/2017
+
 ---
+
 
 # WORKSHOP USE OF SPACE AGREEMENT
 
