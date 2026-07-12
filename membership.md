@@ -1,7 +1,15 @@
 ---
-First Ratified: 06/10/1999
+
+first_ratified: 06/10/1999 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 07-02-19
+
+# date of the GM where the amendments were ratified.
+last_updated: 07-02-19
+
 ---
-- Last Reviewed : <date>2004</date>
+
 # ASH Co-op Membership Policy
 
 ## Criteria for membership
