@@ -1,6 +1,7 @@
 ---
-# please don't alter this field
-first_ratifed: unknown 
+
+# please don't alter the field
+first_ratified: unknown 
 
 # date of last formal review
 last_reviewed: unknown
