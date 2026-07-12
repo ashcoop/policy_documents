@@ -1,6 +1,15 @@
 ---
-First Ratified: 04/03/2010
+
+first_ratified: 04/03/2010 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 04/03/2010
+
+# date of the GM where the amendments were ratified.
+last_updated: 04/03/2010
+
 ---
+
 
 # SUSTAINABILITY POLICY
 
