@@ -1,10 +1,6 @@
 ---
-First Ratified : 01/02/2018
----
 
----
-
-first_ratified: 2024 # (please don't alter this field)
+first_ratified: 01/02/2018 # (please don't alter this field)
 
 # date of last formal review
 last_reviewed: unknown
