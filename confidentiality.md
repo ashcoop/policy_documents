@@ -2,6 +2,18 @@
 First Ratified : 01/02/2018
 ---
 
+---
+
+first_ratified: 2024 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: unknown
+
+# date of the GM where the amendments were ratified.
+last_updated: unknown
+
+---
+
 # CONFIDENTIALITY COMMUNITY AGREEMENT
 
 ## Who this agreement is for
