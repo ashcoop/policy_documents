@@ -1,5 +1,13 @@
 ---
-First Ratified: unknown
+
+first_ratified: 20/09/2012 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 20/09/2012
+
+# date of the GM where the amendments were ratified.
+last_updated: 20/09/2012
+
 ---
 
 # EDUCATION POLICY
