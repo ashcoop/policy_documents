@@ -10,8 +10,6 @@ last_updated: 04/02/2016
 
 ---
 
-- Last Reviewed : <date>2nd March 2016</date>
-- Last Amended : <date>2nd March 2016</date>
 # STAFF PROTECTION POLICY
 
 ## Introduction
