@@ -1,9 +1,14 @@
 ---
-First Ratified: 01-05-2019
----
 
-- Last Reviewed : <date>March 2022</date>
-- Last Amended : <date>March 2022</date>
+first_ratified: 01-05-2019 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 00/03/2022
+
+# date of the GM where the amendments were ratified.
+last_updated: 00/03/2022
+
+---
 
 # SECRETARIAL POLICY
 
