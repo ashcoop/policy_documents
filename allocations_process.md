@@ -1,5 +1,13 @@
 ---
-First Ratified : May 2017
+
+first_ratified: May 2017 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: unknown
+
+# date of the GM where the amendments were ratified.
+last_updated: unknown
+
 ---
 
 # THE ALLOCATIONS PROCESS
