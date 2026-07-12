@@ -1,5 +1,13 @@
 ---
-First Ratified: 04/02/2016
+
+first_ratified: 04/02/2016 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 04/02/2016
+
+# date of the GM where the amendments were ratified.
+last_updated: 04/02/2016
+
 ---
 
 - Last Reviewed : <date>2nd March 2016</date>
