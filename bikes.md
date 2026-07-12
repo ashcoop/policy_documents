@@ -1,6 +1,15 @@
 ---
-First Ratified: 2024
+
+first_ratified: 2024 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: unknown
+
+# date of the GM where the amendments were ratified.
+last_updated: unknown
+
 ---
+
 
 # ASH Coop Bicycles Policy
 This policy brings together various elements relating to bicycles, with the aim of improving the support offered to residents who use bicycles for transport and leisure activities, and need accessible and secure places to store them. The term ‘residents’ is used to reflect the fact that children, too, have bicycles.
