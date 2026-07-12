@@ -1,9 +1,15 @@
 ---
-First Ratified : 00/06/2021
+
+first_ratified: 00/06/2021 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 00/12/2023
+
+# date of the GM where the amendments were ratified.
+last_updated: 00/12/2023
+
 ---
 
-- Last Reviewed : <date>December 2023</date>
-- Last Amended : <date>December 2023</date>
 
 # SUPPORT AND WELLBEING POLICY
 
