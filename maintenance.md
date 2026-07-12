@@ -1,6 +1,10 @@
----
-First Ratified: unknonwn
----
+first_ratified: 2009 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 07-02-19
+
+# date of the GM where the amendments were ratified.
+last_updated: 07-02-19
 
 # Repairs and Maintenance Policy
 
