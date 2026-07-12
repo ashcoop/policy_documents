@@ -1,5 +1,17 @@
 ---
-First Ratified: 07/10/2016
+First Ratified: 
+---
+
+---
+
+first_ratified: 07/10/2016 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 07/10/2016
+
+# date of the GM where the amendments were ratified.
+last_updated: 07/10/2016
+
 ---
 
 # SPENDING POLICY FOR WORKING GROUPS OTHER THAN MAINTENANCE
