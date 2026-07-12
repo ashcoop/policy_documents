@@ -1,5 +1,13 @@
 ---
-First ratified: 08.08.2001
+
+first_ratified: 08.08.2001 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 08.08.2001
+
+# date of the GM where the amendments were ratified.
+last_updated: 08.08.2001
+
 ---
 
 # POLICY ON SMOKING
