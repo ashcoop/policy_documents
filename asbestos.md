@@ -1,5 +1,13 @@
 ---
-First Ratified: 17/08/2011
+
+first_ratified: 17/08/2011 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: unknown
+
+# date of the GM where the amendments were ratified.
+last_updated: unknown
+
 ---
 
 # ASBESTOS MANAGEMENT POLICY
