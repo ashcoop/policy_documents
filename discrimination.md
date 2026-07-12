@@ -3,6 +3,7 @@ ANTI-DISCRIMINATION STATEMENT FOR APPROVED CONTRACTORS
 First Ratified :
 Last Reviewed :
 Last Amended :
+
 Purpose
 
 ASH Co-op is committed to playing an active role in promoting equality and challenging discrimination. We will work with partners,\nwhere necessary, to ensure people are treated fairly and equally. We will seek to promote an atmosphere of tolerance and respect\nin our workplace and our community.
