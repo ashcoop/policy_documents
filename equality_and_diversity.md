@@ -294,9 +294,9 @@ There should also be a reference in the maintenance policy
 
 ### Declaration
 
-1. We declare that we will not discriminate against anyone whilst working on site.
-2. **Signed:**
-3. **Name:**
-4. **Date:**
+- We declare that we will not discriminate against anyone whilst working on site.
+- **Signed:**
+- **Name:**
+- **Date:**
 
 
