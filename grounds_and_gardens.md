@@ -1,5 +1,13 @@
 ---
-First Ratified: 04/06/1997
+
+first_ratified: 04/06/1997 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: 04/06/1997
+
+# date of the GM where the amendments were ratified.
+last_updated: 04/06/1997
+
 ---
 
 # GARDENS POLICY
