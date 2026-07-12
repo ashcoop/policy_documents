@@ -1,6 +1,17 @@
 ---
 First Ratified: 04/06/1997
 ---
+---
+
+first_ratified: 2024 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: unknown
+
+# date of the GM where the amendments were ratified.
+last_updated: unknown
+
+---
 
 # ASH CO-OP CAR PARK POLICY
 
