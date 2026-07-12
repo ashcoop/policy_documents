@@ -1,5 +1,13 @@
 ---
-First Ratified : 25/09/1997
+
+first_ratified: 25/09/1997 # (please don't alter this field)
+
+# date of last formal review
+last_reviewed: unknown
+
+# date of the GM where the amendments were ratified.
+last_updated: unknown
+
 ---
 
 # CONFLICTS OF INTEREST AND CONDUCT OF MEMBERS POLICY
