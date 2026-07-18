@@ -10,7 +10,7 @@ last_updated: 07-02-19
 
 ---
 
-# ASH Co-op Membership Policy
+# Argyle Street Housing Co-operative Membership Policy
 
 ## Criteria for membership
 
