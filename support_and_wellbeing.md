@@ -144,7 +144,7 @@ This policy should be reviewed annually. The date of next review is December 202
 
 # Appendices
 
-## Appendix 1- ASH CO-OP MEMBER EXPECTATIONS
+## Appendix 1 - ASH CO-OP MEMBER EXPECTATIONS
 
 ### Introduction
 
