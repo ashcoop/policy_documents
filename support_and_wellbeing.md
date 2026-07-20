@@ -142,7 +142,7 @@ The Coop will begin application to court for any members who have not been reins
 
 This policy should be reviewed annually. The date of next review is December 2024
 
-## Appendices
+# Appendices
 
 ## Appendix 1- ASH CO-OP MEMBER EXPECTATIONS
 
@@ -226,8 +226,6 @@ Cleaning the Common Areas, fixtures and fittings, furniture and windows of the P
 Keeping fixtures, fittings and furniture in good order and not allowing them or any part of them to be removed from the Property;
 Keeping exits, passageways, landings, staircases and other Common Areas free from personal property and any obstructions and to leave all Common Areas fit for use by other occupiers. Items can be left in living areas with the unanimous consent of other tenants.
 
-
-- Appendix 1: [Member Expectations]("member_expectations.php")
 - Appendix 2: [Conflict Resolution Flow Diagram]()
 - Appendix 3: [Narrative Examples]()
 - Appendix 4: [Confidentiality Agreement]()
