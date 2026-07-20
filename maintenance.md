@@ -238,7 +238,7 @@ The following were voted on in the GM of 7/10/2021 but no discussion was had in 
 - Power Sockets: Bedroons across all propeties to be upgraded to have 3 double electrical sockets at member request or when a room become void
 - Policy on access to contractors: Members should ensure that contractors have access to areas in the properties required to carry out their work
 
-## 7 September 2022 (GM) amendmement - bathroom fans
+## September 7th 2022 amendmement - bathroom fans
 
 That the co-op adopts an overall policy of installing and allowing to operate automated humidistat fans across site to keep on top of damp and mould issues in bathrooms." Addressed tension between energy-efficient automated fans and members' preference for manual on/off control.
 
