@@ -3,10 +3,10 @@
 first_ratified: 07/10/2016 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: 07/10/2016
+last_reviewed: none
 
 # date of the GM where the amendments were ratified.
-last_updated: 07/10/2016
+last_updated: 01/04/2021
 
 ---
 
@@ -48,16 +48,17 @@ Any group can choose to bring any spending decision to a GM anyway, for instance
 
 ## Normal Working Group Spending
 
-The Tech Group has budgets to spend on computers and software, and may spend according to the policy above.
-The Development Group may spend from its budget according to the policy above to move forward any projects that the co-op has already approved.
+**The Tech Group** has budgets to spend on computers and software, and may spend according to the policy above.
 
-The Grounds and Gardens Group has a budget and may spend according to the policy above.
+**The Development Group** may spend from its budget according to the policy above to move forward any projects that the co-op has already approved.
+
+**The Grounds and Gardens Group** has a budget and may spend according to the policy above.
 
 The Maintenance Group is already covered in detail, both in the main finance policy, (Financial Regulations and Procedures) and in the Maintenance Policy, because maintenance requires regular spending.
 
-The Employment Group may spend from the Office Equipment budget according to the policy above, for things used by staff. The Employment group may also authorise spending from the staff training budget in line with the policy above.
+**The Employment Grou**p may spend from the Office Equipment budget according to the policy above, for things used by staff. The Employment group may also authorise spending from the staff training budget in line with the policy above.
 
-The Education budget is of strong social interest to members of the co-op as it represents a limited resource that they can access for their own training. As such, any new training course request should go through a GM.
+**The Education budget** is of strong social interest to members of the co-op as it represents a limited resource that they can access for their own training. As such, any new training course request should go through a GM.
 
 Part of the education budget is available to purchase books that are of interest to the community and can be a shared learning and information resource. Purchases of books can be made in line with the above policy as long as spending on books for the year has not exceeded 10% of the overall education budget.
 
@@ -65,9 +66,9 @@ The co-op may decide separately that anyone in a particular working group should
 
 The Education Group may spend according to the policy above in making minor amendments to an already-agreed training course, e.g. where it becomes apparent that someone has special needs that require extra spending to support their attendance, or where e.g. it becomes clear that something useful for a training course - food, extra transport etc. was not put in the original proposal.
 
-The Rent Group may initiate legal proceedings against a member in circumstances set out in the Rent Policy. Any such proceedings incur costs. ASH Co-op will always seek to recover such costs from the member concerned. No further authorisation is required.
+**The Rent Group** may initiate legal proceedings against a member in circumstances set out in the Rent Policy. Any such proceedings incur costs. ASH Co-op will always seek to recover such costs from the member concerned. No further authorisation is required.
 
-The Welfare Group may need to spend money in an emergency, on mediation for instance. Such spending may be authorised by the Treasurer to be taken from the Community Budget. If there is not enough money left in the Community Budget, the Treasurer is authorised to overspend from this budget.
+**The Welfare Group** may need to spend money in an emergency, on mediation for instance. Such spending may be authorised by the Treasurer to be taken from the Community Budget. If there is not enough money left in the Community Budget, the Treasurer is authorised to overspend from this budget.
 
 Other working groups such as Allocations and Equality and Diversity do not have their own budgets at present but may still spend on occasion from appropriate budget categories according to the policy above.
 
