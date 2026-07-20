@@ -6,7 +6,7 @@ first_ratified: 04/02/2016 # (please don't alter this field)
 last_reviewed: 01/06/2017
 
 # date of the GM where the amendments were ratified.
-last_updated: 01/06/2017
+last_updated: none
 
 ---
 
