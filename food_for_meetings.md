@@ -12,8 +12,6 @@ last_updated: 01/05/2024
 
 # REIMBURSEMENT FOR FOOD AT MEETINGS POLICY
 
-- Last Amended : 
-- 
 Each member that attends a GM remotely will be allowed to claim back costs towards a meal. This will be £7 per member, and can only be claimed via reimbursement after the meeting.
 
 Costs can be claimed for ingredients used to cook with, or for pre-made or takeaway food. Costs will not be available for drinks of any sort, or for any non-food items.
