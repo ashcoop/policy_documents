@@ -6,7 +6,7 @@ first_ratified: 2024 # (please don't alter this field)
 last_reviewed: 02/03/2022
 
 # date of the GM where the amendments were ratified.
-last_updated: 02/03/2022
+last_updated: 03/05/2022
 
 ---
 # ASH Co-op Committee Policy
