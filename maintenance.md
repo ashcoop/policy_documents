@@ -3,10 +3,10 @@
 first_ratified: 2009 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: 07/02/19
+last_reviewed: 07-10-2021
 
 # date of the GM where the amendments were ratified.
-last_updated: 07/02/19
+last_updated: 07-10-2021
 
 ---
 
@@ -231,7 +231,7 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 6. If the purchase cannot be made by the Co-op team directly, they may delegate this to the contractor; in doing so, a surcharge of no more than 30% of the total item cost under the Procurement for Housing scheme shall be liable to the contractor by the Co-op.
 7. If the Co-op team handles the purchasing directly, a surcharge of no more than 10% of the materials cost shall be paid to the contractor for materials on the agreed list.
 
-## October 7th 2021 amendment
+## October 7th 2021 amendment - power sockets and area access
 
 The following were voted on in the GM of 7/10/2021 but no discussion was had in terms of how to integrate the decisions within the policy
 
