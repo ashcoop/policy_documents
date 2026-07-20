@@ -10,6 +10,7 @@ last_updated: 01-03-2000
 
 ---
 
+# ASH CO-OP RENT SETTING POLICY
 
 ## Housing Corporation requirements
 
