@@ -1,12 +1,12 @@
 ---
 
-first_ratified: 11/11/1998 # (please don't alter this field)
+first_ratified: 11-11-1998 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: 01/03/2000
+last_reviewed: 01-03-2000
 
 # date of the GM where the amendments were ratified.
-last_updated: 01/03/2000
+last_updated: 01-03-2000
 
 ---
 
