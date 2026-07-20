@@ -26,6 +26,7 @@ c. Where possible, maintain a small number of formerly abandoned and renovated b
 ## 2. Bicycle Parking
 Current provision for bicycle parking does not meet residents’ needs. As a result, bicycles are often kept in inconvenient places, such as inside shared houses or blocking access on Coop paths. There have increasingly been bicycle thefts from Coop property.
 To improve this situation, ASH Coop will:
+
 A. Over time, provide one secure bicycle parking space per resident – regardless of age – in the form of secure shelters for each house and/or communal shelters. Each resident will have one allocated, numbered place that can only be used for bicycle parking, transferable to the next resident in their property should they leave ASH Coop.
 B. In consultation with residents, review, renovate, and update the existing shelters at either end of the property to make them more secure and accessible.
 C. Consult and work with each residence requesting a shelter – on a first-come-first-served basis – to provide bike shelters of their chosen design and location adjacent to their property when practically and financially possible. Oversized/unusual machines will be approached on a case-by-case basis.
@@ -34,6 +35,7 @@ C. Consult and work with each residence requesting a shelter – on a first-come
 
 ## 3. Cycle Maintenance & Repair
 Bicycles are an accessible form of transport that can be simply maintained by anyone with access to appropriate tools, premises, and skills. However, those can be difficult to use in already-crowded homes. Therefore, ASH Coop will:
+
 A. Develop provision for bicycle maintenance and repair through the purchase of communal specialist tools.
 B. Consider the provision of a dedicated bicycle workshop.
 C. Consult and collaborate with other relevant groups to initiate in-house and/or external training provision on bike repair and maintenance.
