@@ -267,7 +267,7 @@ We aim to have a workforce which reflects the community in which we live. We hav
 
 We encourage and support members and employees to reach their full potential through a large training budget. We actively encourage members and employees to seek training opportunities for them and others within ASH Co-op. We provide annual Equal Opportunities training for members and staff.
 
-## Appendix 3 - ANTI-DISCRIMINATION STATEMENT FOR APPROVED CONTRACTORS
+## Appendix 3: ANTI-DISCRIMINATION STATEMENT FOR APPROVED CONTRACTORS
 
 ### Purpose
 
