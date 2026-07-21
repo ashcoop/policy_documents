@@ -1,13 +1,13 @@
 ---
 
 # please don't alter the field
-first_ratified: unknown 
+first_ratified: 06/10/1999 
 
 # date of last formal review
-last_reviewed: unknown
+last_reviewed: 05/02/2025
 
 # date of the GM where the amendments were ratified.
-last_updated: unknown
+last_updated: 05/02/2025
 
 ---
 
