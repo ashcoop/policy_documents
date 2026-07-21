@@ -3,17 +3,14 @@
 first_ratified: 20/09/2012 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: 20/09/2012
+last_reviewed: 06/12/2018
 
 # date of the GM where the amendments were ratified.
-last_updated: 20/09/2012
+last_updated: 06/12/2018
 
 ---
 
 # FINANCIAL REGULATIONS AND PROCEDURES
-
-- Last Reviewed : <date>6th December 2018</date>
-- Last Amended : <date>6th December 2018</date>
 
 ## Foreword
 
