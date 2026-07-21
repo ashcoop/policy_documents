@@ -106,7 +106,8 @@ Members who successfully apply to transfer to a flat may do so immediately after
 ## Appeals
 
 If applicants feel they have been treated unfairly or wish to appeal any decision made during the allocations process, they may do so in writing to the Co-op office (3 Fletchers Terrace, Cambridge, CB1 3LU). The appeal will be investigated and a response sent within 28 days.
-Record Keeping
+
+## Record Keeping
 
 In general, application forms will only be looked at by Allocations Co-ordinators, Co-op staff, interviewers, and house members seeking to allocate rooms.
 Application forms, including interview records and identification taken for right to rent checks, will be held for twelve months after an applicant is removed from the shortlist, or after the member moves out of the Co-op.
