@@ -3,10 +3,10 @@
 first_ratified: 03/02/2010 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: Jan 2021
+last_reviewed: 15/02/2021
 
 # date of the GM where the amendments were ratified.
-last_updated: Jan 2021
+last_updated: 15/02/2021
 
 ---
 
