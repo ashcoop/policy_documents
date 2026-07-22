@@ -139,9 +139,6 @@ This policy must be reviewed annually through a self-assessment to ensure that i
 
 The results of the self assessment, tenant survey and annual report of complaint handling should be presented at the co-op's Annual General Meeting, and published on the website.
 
-- Read our most recent [Ombudsman code self assessment](/reports/latest/) or browse our [Annual Report Archives](/reports/archive/).
-- Read our most recent [Complaints Annual Report](/reports/latest/) or 
-- View the [Annual Report Archives](/reports/archive/).
-
-- [Ombudsman code self assessment - 2025](https://governance.ash.coop/Self-Assessment-2025.pdf)
-- [Complaints Annual Report - 2025](https://governance.ash.coop/complaints_annual_report_2025.pdf)
+- Read our most recent [Ombudsman code self assessment](/reports/latest/)
+- Read our most recent [Complaints Annual Report](/reports/latest/)
+- View the [Annual Report Archives](/reports/archive/)
