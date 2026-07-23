@@ -141,4 +141,4 @@ The results of the self assessment, tenant survey and annual report of complaint
 
 - Read our most recent [Ombudsman code self assessment](/reports/latest/)
 - Read our most recent [Complaints Annual Report](/reports/latest/)
-- View the [Annual Report Archives](/reports/archive/)
+- View previous documents in the [archives](/reports/archive/)
