@@ -139,6 +139,6 @@ This policy must be reviewed annually through a self-assessment to ensure that i
 
 The results of the self assessment, tenant survey and annual report of complaint handling should be presented at the co-op's Annual General Meeting, and published on the website.
 
-- Read our most recent [Ombudsman code self assessment]9/latest/self-assessment)
+- Read our most recent [Ombudsman code self assessment](/latest/self-assessment)
 - Read our most recent [Complaints Annual Report](/latest/annual-report)
 - View previous documents in the [archives](/archived/)
