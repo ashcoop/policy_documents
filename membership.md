@@ -50,7 +50,7 @@ The following factors will be considered:
 The Co-op depends on the voluntary effort of its members and each member has a responsibility to contribute to the running of the Co-op. Each member must:
 - Take an active interest in the business of the Co-op
 - Attend at least three General Meetings each year
-- Abide by, and co-operate with, the Co-op’s Rules and policies; each member must therefore demonstrate a commitment to equal opportunities
+- Abide by, and co-operate with, the Co-op’s Rules and policies; each member must therefore demonstrate a understanding of **equality and diversity**.
 
 ## Procedure for becoming a member
 
