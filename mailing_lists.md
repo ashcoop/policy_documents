@@ -1,9 +1,9 @@
 ---
 
-first_ratified: 2009 # (please don't alter this field)
+first_ratified: 01/06/2017 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: 07-02-19
+last_reviewed: none
 
 # date of the GM where the amendments were ratified.
 last_updated: 07-02-19
