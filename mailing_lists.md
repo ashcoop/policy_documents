@@ -9,6 +9,7 @@ last_reviewed: none
 last_updated: none
 
 ---
+# Mailing List Policy
 
 The ASH Co-op mailing list is an email based discussion group where members can exchange information and ideas for the benefit of ASH Co-op. Meeting agendas and minutes are also posted to this list.
 
