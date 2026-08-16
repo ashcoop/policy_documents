@@ -127,9 +127,9 @@ The Co-op will also consider reasonable requests for support while a complaint i
 
 Any member may contact the Housing Ombudsman at any stage of a complaints process, for support and advice. The Ombudsman will also handle complaints that remain unresolved after internal complaints processes have concluded. The Ombudsman can be contacted at:
 
-**Tel:** 0300 111 3000 (9.15am-5.15pm: Monday to Friday)
-**Email:** [INSERT EMAIL — original was Cloudflare-obfuscated and couldn't be decoded here]
-**Post:** Housing Ombudsman Service, PO Box 152, Liverpool, L33 7WQ
+- **Tel:** 0300 111 3000 (9.15am-5.15pm: Monday to Friday)
+- **Email:** info@housing-ombudsman.org.uk
+- **Post:** Housing Ombudsman Service, PO Box 152, Liverpool, L33 7WQ
 
 [https://www.housing-ombudsman.org.uk](https://www.housing-ombudsman.org.uk)
 
