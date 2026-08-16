@@ -10,7 +10,7 @@ last_updated: 09/11/2025
 
 ---
 
-# CO-OP COMPLAINTS POLICY
+# ASH CO-OP COMPLAINTS POLICY
 
 ## What is a complaint ?
 
