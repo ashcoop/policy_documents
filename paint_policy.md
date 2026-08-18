@@ -50,7 +50,7 @@ When a member moves into a flat or family house, the Co-op will provide enough p
 5. Where a permanent change of paint brand/s used is required, this must be agreed by a General Meeting.
 
 | Paint Budgets | Budget | Suggested walls (litres)| Suggested trim (litres) | Suggested ceiling (litres) | Rooms this covers | Budget per litre |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Small Room** | £52 | 5 | 2.5 | 2.5 | toilets, cupboards, bathrooms | £4.16 |
 | **Normal Room** | £62 | 5 | 2.5 | 5 | bedrooms, flat kitchens and living rooms | total cost |
 | **Normal Room high ceiling** | £83 | 10 | 2.5 | 5 | Top floor bedrooms and bathrooms | painting |
