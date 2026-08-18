@@ -3,10 +3,10 @@
 first_ratified: 04/03/2010 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: 08/08/2013
+last_reviewed: 05/02/2025
 
 # date of the GM where the amendments were ratified.
-last_updated: 08/08/2013
+last_updated: 05/02/2025
 
 ---
 
@@ -32,18 +32,25 @@ Members on low incomes may be entitled to claim Housing Benefit or Universal Cre
 
 ## Universal Credit and Housing Benefit
 
-Most members making a new claim for benefits will need to apply for Universal Credit. Universal Credit is a benefit system for people in or out of work. It replaces some legacy benefits (like JSA, ESA, and in most cases, Housing Benefit) and tax credits. Members applying for Universal Credit are encouraged to seek the advice of the office workers, particularly in relation to the housing element of their claim.
+Most members making a new claim for benefits will need to apply for Universal Credit. Universal Credit is a benefit system for people in or out of work. It has replaced the following benefits and tax credits: Child Tax Credit, Housing Benefit, Income Support, Income-based Jobseeker’s Allowance (JSA), Income-related Employment and Support Allowance (ESA), Working Tax Credit
 
-Some members who are still receiving legacy benefits like JSA or ESA might still be getting Housing Benefit. Those seeking support with paying their rent (but not applying for any other benefits) may be able to apply for Housing Benefit if they can prove they have a ‘nil income’.
+Members applying for Universal Credit are encouraged to seek the advice of the office workers, particularly in relation to the housing element of their claim. A guide to filling the housing element of the application is available here
 
-Housing Benefit should be paid directly to the Co-op. In certain circumstances, the housing element of Universal Credit can be paid directly to the Co-op. This may happen at the request of the claimant or the Co-op – speak to the office workers if you would like help with this.
+Some members who are still receiving legacy benefits like ESA might still be getting Housing Benefit, thought this is now being transitioned over to Universal Credit. The only new applications for Housing Benefit still available are for those at state pension age
 
-To prevent any unnecessary delays members should seek to make their claim as soon as possible, and ensure that they have provided the required documentation in support of their claim (e.g. proof of identity, bank details, tenancy agreement etc.). Failure to do so may result in less benefit being paid.
+Housing Benefit should be paid directly to the Co-op. In certain circumstances, the housing element of Universal Credit can be paid directly to the Co-op. This may happen at the request of the claimant or the Co-op:
 
-Housing Benefit and the housing element of Universal Credit do not cover the total rent charged and members are required to make up any shortfall between their weekly rent due and the amount contributed by Housing Benefit or Universal Credit.
+I.	Members who struggle to budget are encouraged if willing to request direct rent payments be made to the co-op from Universal Credit
+II.	If any member in receipt of the housing element of Universal Credit falls into the equivalent of 8 weeks of rent arrears, the co-op will make a claim for direct payments from that point onward, to limit the accumulating arrears
+
+Members should always inform the co-op if they are making a claim for Universal Credit to cover their rent, as the co-op will be contacted by UC to verify the rent and if the application or verification aren’t correctly filed the claim can be delayed significantly
+
+Housing Benefit and the housing element of Universal Credit do not cover service charges, which must be paid from the members other income or from the personal element of Universal Credit. This is also true for any additional payments made under a payment agreement for prior arrears.
+
 Benefit claims can take time to process and members may find themselves with significant arrears because the payment is late. Whilst members still remain responsible for any rent owed, the co-op will take the delay into account when considering the arrears on the condition that evidence has been provided that the claim is being processed. During this time, members will still receive written warnings of their arrears in line with our current policy.
 
-Members applying for benefits are still required to pay their additional rent (services) whilst their claim is being processed.
+Members applying for benefits are still required to pay their services and any additional payment agreement amounts whilst their claim is being processed.
+
 
 ## Rent Arrears
 
