@@ -40,8 +40,8 @@ Some members who are still receiving legacy benefits like ESA might still be get
 
 Housing Benefit should be paid directly to the Co-op. In certain circumstances, the housing element of Universal Credit can be paid directly to the Co-op. This may happen at the request of the claimant or the Co-op:
 
-I.	Members who struggle to budget are encouraged if willing to request direct rent payments be made to the co-op from Universal Credit
-II.	If any member in receipt of the housing element of Universal Credit falls into the equivalent of 8 weeks of rent arrears, the co-op will make a claim for direct payments from that point onward, to limit the accumulating arrears
+1  Members who struggle to budget are encouraged if willing to request direct rent payments be made to the co-op from Universal Credit
+2  If any member in receipt of the housing element of Universal Credit falls into the equivalent of 8 weeks of rent arrears, the co-op will make a claim for direct payments from that point onward, to limit the accumulating arrears
 
 Members should always inform the co-op if they are making a claim for Universal Credit to cover their rent, as the co-op will be contacted by UC to verify the rent and if the application or verification aren’t correctly filed the claim can be delayed significantly
 
