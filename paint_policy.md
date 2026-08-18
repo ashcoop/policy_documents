@@ -49,16 +49,13 @@ When a member moves into a flat or family house, the Co-op will provide enough p
 4. The Maintenance Group recognises that members may from time to time want to use other paints that differ from brands currently used by ASH Co-op. If a member would like the Co-op to pay for paint other than the brand/s and finishes agreed by ASH Co-op, they should seek agreement from a Maintenance Co-ordinator / Paint Co-ordinator, who will then be able to advise the office whether an exception can be made.
 5. Where a permanent change of paint brand/s used is required, this must be agreed by a General Meeting.
 
-| Room | 4 person House | 6 Person House | 10 Person House | Flat | House |
+| Paint Budgets | Budget | Suggested walls (litres)| Suggested trim (litres) | Suggested ceiling (litres) | Rooms this covers | Budget per litre |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bathroom** | 5 L Walls<br>2 ½ L Trim<br>1 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>1 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>1 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>1 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>1 L Ceiling |
-| **Hall** | 10 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 10 L Walls<br>5 L Trim<br>10 L Ceiling | 15 L Walls<br>5 L Trim<br>10 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>1 L Ceiling | 10 L Walls<br>5 L Trim<br>5 L Ceiling |
-| **Living Room** | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 10 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 15 L Walls<br>5 L Trim<br>10 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling |
-| **Kitchen\*** | 5 L Walls<br>2 ½ L Trim | 5 L Walls<br>2 ½ L Trim | 5 L Walls<br>2 ½ L Trim | 5 L Walls<br>2 ½ L Trim | 5 L Walls<br>2 ½ L Trim |
-| **Bedroom** | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling | 5 L Walls<br>2 ½ L Trim<br>5 L Ceiling |
-
-> **Figure I – Allocated Amounts of Paint**  
-> \*Ceiling paint for kitchens is included in living rooms.
+| **Small Room** | £52 | 5 | 2.5 | 2.5 | toilets, cupboards, bathrooms | £4.16 |
+| **Normal Room** | £62 | 5 | 2.5 | 5 | bedrooms, flat kitchens and living rooms | total cost |
+| **Normal Room high ceiling** | £83 | 10 | 2.5 | 5 | Top floor bedrooms and bathrooms | painting |
+| **Large Room** | £125 | 10 | 5 | 10 | All open plan kitchen/living rooms | per year |
+| **Large Room high ceiling** | £146 | 15 | 5 | 10 | Shared house hallways, upstairs open plan living/kitchen | £2,712 |
 
 
 ## Painting Equipment
