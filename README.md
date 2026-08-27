@@ -1,5 +1,7 @@
-# policy_documents
-a repository for the Argyle Street Housing Co-operative Policies 
+# ASH Co-op policy documents
+## A repository for the Argyle Street Housing Co-operative Policies in markdown form. 
+
+The purpose of keeping the policies of ASH Co-op is to enable the organisation's polices website to be more easily maintained by members of the organisation without any specialist knowledge or abilities beyond rudimentary computer skills. 
 
 ## A note on dates
 
