@@ -22,12 +22,12 @@ Contributing in this can take a number of forms and is co-ordinated by the secre
 
 ## A note on dates
 
-the policies in this repository represent over 30 years of contributions from  change and developement as well as 30 years of different expectations in the noting of various datestamps; first ratified, last amended, last reviewed etc ...
+The policies here represent more than 30 years of development from countless contributers with different attitudes to recording dates — *first ratified*, *last amended*, *last updated*, *last reviewed*, and so on.
 
-as a way of establishing some consistency throughout, the following standardisation has formed
+As a way of establishing some consistency throughout the site, the following standardisation has formed
 
-first ratified - when the f
-last amended - 
-last reviewed - last formal review 
+First ratified — the date on which the policy was first formally agreed.
+Last reviewed — the date on which the policy was most recently formally reviewed
+Last updated — the date on which the policy was most recently changed.
 
-This means that a policy may be amended without formal review and conversely may have been been reviewed without subsequent amendment. 
+This means that a policy may be amended without a formal review as well as having been formally reviewed without any subsequent amendment. 
