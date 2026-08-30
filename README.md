@@ -28,6 +28,6 @@ As a way of establishing some consistency throughout the site, the following sta
 
 - First ratified — the date on which the policy was first formally agreed.
 - Last reviewed — the date on which the policy was most recently formally reviewed
-- Last updated — the date on which the policy was most recently changed.
+- Last updated — the GM date which agreed the most recent changes to the policy.
 
 This means that a policy may be amended without a formal review as well as having been formally reviewed without any subsequent amendment. 
