@@ -26,8 +26,8 @@ The policies here represent more than 30 years of development from countless con
 
 As a way of establishing some consistency throughout the site, the following standardisation has formed
 
-First ratified — the date on which the policy was first formally agreed.
-Last reviewed — the date on which the policy was most recently formally reviewed
-Last updated — the date on which the policy was most recently changed.
+- First ratified — the date on which the policy was first formally agreed.
+- Last reviewed — the date on which the policy was most recently formally reviewed
+- Last updated — the date on which the policy was most recently changed.
 
 This means that a policy may be amended without a formal review as well as having been formally reviewed without any subsequent amendment. 
