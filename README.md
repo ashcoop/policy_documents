@@ -10,7 +10,7 @@ Using github also serves these following goals,
 ## Two branches
 The repository is comprised of two branches: **main** and **reviews**.
 
-- **main** is the authoritative, published version of the policy which have been agreed at a General Meeting. 
+- **main** is the authoritative, published version of the policy which has been agreed at a General Meeting. 
 
 - **reviews** is where proposed amendments are developed and discussed. Members can suggest, edit and review changes here without altering the current published policies.
 
