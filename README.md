@@ -16,7 +16,7 @@ The repository has two main branches: **main*** and **reviews**.
 
 When amendments have been reviewed, discussed and agreed upon in the General Meeting, the **review** version can be merged into the **main** published as the authoritative version to the main site. 
 
-## a note on dates
+## A note on dates
 
 the policies in this repository represent over 30 years of contributions from  change and developement as well as 30 years of different expectations in the noting of various datestamps; first ratified, last amended, last reviewed etc ...
 
