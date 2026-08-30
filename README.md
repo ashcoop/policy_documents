@@ -1,29 +1,31 @@
 # ASH Co-op policy documents
-## A repository for the Argyle Street Housing Co-operative Policies in markdown form. 
 
-The purpose of keeping the policies of ASH Co-op is to enable the organisation's polices website to be more easily maintained by members of the organisation without any specialist knowledge or abilities beyond rudimentary computer skills. 
+This is a GitHub repository for the policies of ASH Co-op which provides the source for the [ASH Co-op policies website](https://policies.ash.coop). 
 
-## A note on dates
+Using github also serves these following purposes, 
+1. to make it much easier for members to contribute to alterations to the policies website without the need for special skills
+2. to keep a record of how policies change over time
+3. potentially contribute to a system of regular policy review
 
-Policies are marked with the following datestamps all of which are editable in the text since automation proved a little unworkable.
-- First Ratified
-- Last Reviewed
-- Last Updated
+## Two branches
+The repository has two main branches: main and reviews.
 
- **First Ratified** Should remain unchanged
+main is the authoritative, published version of the policy which have been agreed at a General Meeting. 
 
- **Last Reviewed** refers to the last *formal* review of the policy. A formal review refers to the deliberated process of reviewing a policy in its entirety. Policies often state the frequency at which it needs to be subject to formal review and it follows that a policy may remain unchanged after such review. 
+reviews is where proposed changes are developed and discussed. Members can suggest, edit and review changes here without altering the current published policies.
 
- **Last Updated** refers to the last completed edition of the policy as agreed in a GM. A policy may be updated with or without having been subject to formal review and as such, this date does not neccesarily need to correspond with the date of last formal review.
+This separation alows us work openly on future changes
 
- 
+When amendments have been reviewed, discussed and agreed upon has it can be merged  into the main. 
 
-Anybody can read these docs but only members of ash coop with editing privileges can contribute to the *reviews* branch
+## a note on dates
 
-To get editing privileges contact secretarial@ash.coop
+the policies in this repository represent over 30 years of contributions from  change and developement as well as 30 years of different expectations in the noting of various datestamps; first ratified, last amended, last reviewed etc ...
 
-## instructions for contributing to reviews ##
+as a way of establishing some consistency throughout, the following standardisation has formed
 
-do not try to edit documents in the main branch, you won't be able to
+first ratified - when the f
+last amended - 
+last reviewed - last formal review 
 
-only review documents are editable. edited versions will be presented to the membership at a GM before being merged with the main branch as ratified reviewed
+This means that a policy may be amended without formal review and conversely may have been been reviewed without subsequent amendment. 
