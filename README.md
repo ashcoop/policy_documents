@@ -14,7 +14,7 @@ The repository is comprised of two branches: **main** and **reviews**.
 
 - **reviews** is where proposed amendments are developed and discussed. Members can suggest, edit and review changes here without altering the current published policies.
 
-When amendments have been reviewed, discussed and agreed upon in the General Meeting, the **review** version can be merged into the **main** published as the authoritative version to the main site. 
+When amendments have been reviewed, discussed and agreed upon in the General Meeting, the **review** version can be merged into the **main** and subsequently published as the authoritative version to the main site. 
 
 ## Contributing
 
