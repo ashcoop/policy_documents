@@ -8,15 +8,13 @@ Using github also serves these following purposes,
 3. potentially contribute to a system of regular policy review
 
 ## Two branches
-The repository has two main branches: main and reviews.
+The repository has two main branches: **main*** and **reviews**.
 
-main is the authoritative, published version of the policy which have been agreed at a General Meeting. 
+**main** is the authoritative, published version of the policy which have been agreed at a General Meeting. 
 
-reviews is where proposed changes are developed and discussed. Members can suggest, edit and review changes here without altering the current published policies.
+**reviews** is where proposed amendments are developed and discussed. Members can suggest, edit and review changes here without altering the current published policies.
 
-This separation alows us work openly on future changes
-
-When amendments have been reviewed, discussed and agreed upon has it can be merged  into the main. 
+When amendments have been reviewed, discussed and agreed upon in the General Meeting, the **review** version can be merged into the **main** published as the authoritative version to the main site. 
 
 ## a note on dates
 
