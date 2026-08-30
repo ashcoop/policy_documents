@@ -2,7 +2,7 @@
 
 This is a GitHub repository for the policies of ASH Co-op which provides the source content for the [ASH Co-op policies website](https://policies.ash.coop). 
 
-Using github also serves these following goals, 
+Using github also serves these following goals:
 - to make it significantly easier for members to contribute to content alteration without the need for specialised skills
 - to keep a record of how policies change over time
 - to help us develop a system of regular policy review
