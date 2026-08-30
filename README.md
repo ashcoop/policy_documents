@@ -24,7 +24,7 @@ Contributing in this can take a number of forms and is co-ordinated by the secre
 
 The policies here represent more than 30 years of development from countless contributers with different attitudes to recording dates — *first ratified*, *last amended*, *last updated*, *last reviewed*, and so on.
 
-As a way of establishing some consistency throughout the site, the following standardisation has formed
+To bring some consistency these have been standardised as follows;
 
 - First ratified — the date on which the policy was first formally agreed.
 - Last reviewed — the date on which the policy was most recently formally reviewed
