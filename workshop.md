@@ -23,4 +23,4 @@ This is a shared agreement for the Workshop which allows sets out expectations a
 - Leave the workshop as you hope to find it. Clear workbenches, clear wood shavings and remove scraps.
 - Workshop is for working, it is not a shed. Don’t store items that are not related.
 - Do not use tools or items you are unfamiliar with, if you are unsure how to operate something safely. The workshop is used at your own risk.
-- The coop can provide tools and improvements to the space, the space will be co-ordinated by Workshop co-ordinators, and tool spending will draw from the Co-ops tools budget.
+- The coop can provide tools and improvements to the space, the space will be co-ordinated by Workshop co-ordinators, and tool spending will draw from the Co-op's tools budget.
