@@ -192,7 +192,7 @@ Members are expected to actively look after the shared grounds and shared buildi
 
 Members are expected to abide by the rules of the co-operative and current policies of the co-operative.
 
-Co-operation
+#### Co-operation
 
 Our mailing list policy makes the following recomendation how we conduct ourselves on the email lists. 
 
@@ -200,19 +200,19 @@ Assume good faith and intentions in other peoples’ statements and actions
 
 This also should apply to how we conduct ourselves in interactions outside of the mailing list. Make the fundamental assumption that your neighbour has joined a housing co-operative because they want to work with you to help build a community and that disagreement and conflict does not neccesarily arise from deliberately malicious intent. 
 
-Tenancy
+### Tenancy
 
 (this is not an exhaustive list of tenancy clauses but it is the most common causes relating to interpersonal conflict)
 
-Nuisance:
+#### Nuisance:
 
 Not to cause or allow invited visitors to cause a nuisance or annoyance to other persons in the neighbourhood or to any tenant, agent, employee or contractor of the Co-operative.
 
-Racial and other harassment:
+#### Racial and other harassment:
 
 Not to commit or allow invited visitors to commit any form of harassment, intimidation or violence (including domestic violence) on the grounds of race, colour, religion, sex, sexual orientation or disability or for any other reason which may interfere with the peace and comfort of, or cause offence to any other tenant or member of another tenant’s household, visitors or neighbours, employees or agents of the Co-operative.
 
-Noise:
+#### Noise:
 
 Not to play or allow to be played any radio, television, record or tape recording or musical instrument in such a manner:
 
@@ -226,6 +226,5 @@ Cleaning the Common Areas, fixtures and fittings, furniture and windows of the P
 Keeping fixtures, fittings and furniture in good order and not allowing them or any part of them to be removed from the Property;
 Keeping exits, passageways, landings, staircases and other Common Areas free from personal property and any obstructions and to leave all Common Areas fit for use by other occupiers. Items can be left in living areas with the unanimous consent of other tenants.
 
-- Appendix 2: [Conflict Resolution Flow Diagram]()
-- Appendix 3: [Narrative Examples]()
-- Appendix 4: [Confidentiality Agreement]()
+- Appendix 2: [Conflict Resolution Flow Diagram](https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/sandw-pdfs/Appendix_2_Conflict_Resolution_Flow_Diagram.pdf)
+- Appendix 3: [Narrative Examples](https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/sandw-pdfs/Appendix_3_Example_narratives.pdf)
