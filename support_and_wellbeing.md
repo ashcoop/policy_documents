@@ -226,5 +226,8 @@ Cleaning the Common Areas, fixtures and fittings, furniture and windows of the P
 Keeping fixtures, fittings and furniture in good order and not allowing them or any part of them to be removed from the Property;
 Keeping exits, passageways, landings, staircases and other Common Areas free from personal property and any obstructions and to leave all Common Areas fit for use by other occupiers. Items can be left in living areas with the unanimous consent of other tenants.
 
-- Appendix 2: [Conflict Resolution Flow Diagram](https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/sandw-pdfs/Appendix_2_Conflict_Resolution_Flow_Diagram.pdf)
-- Appendix 3: [Narrative Examples](https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/sandw-pdfs/Appendix_3_Example_narratives.pdf)
+## Appendix 2: Conflict Resolution Flow Diagram
+- [Conflict Resolution Flow Diagram](https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/sandw-pdfs/Appendix_2_Conflict_Resolution_Flow_Diagram.pdf)
+
+## Appendix 3: Narrative Examples
+- [Narrative Examples](https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/sandw-pdfs/Appendix_3_Example_narratives.pdf)
