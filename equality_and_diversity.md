@@ -121,9 +121,9 @@ A physical or mental impairment includes sensory impairments such as those affec
 
 People who are proposing to undergo, are undergoing or have undergone a process (or part of a process) to reassign their sex by changing physiological or other attributes of sex, have the protected characteristic of gender reassignment.
 
-The Equality Act says that a person should have at least proposed to undergo gender reassignment. People who start their gender reassignment process but then decide to stop still have the protected characteristic of gender reassignment.
+The Equality Act 2010 says that a person should have at least proposed to undergo gender reassignment. People who start their gender reassignment process but then decide to stop still have the protected characteristic of gender reassignment.
 
-A transsexual person is someone who has the protected status of gender reassignment.
+A trans person may have the protected characteristic of gender reassignment under the Equality Act.
 
 #### Marriage and Civil Partnership
 
