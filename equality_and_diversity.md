@@ -32,7 +32,17 @@ ASH Co-op believes that everyone has the right to be treated with dignity and re
 
 See also the appendix
 
-ASH Co-op will ensure that it meets its obligations under the Equality Act 2010 and we will take a proactive role to advance equality of opportunity for all. We will comply with Equality Codes of Practice issued by the Equality and Human Rights Commission; including the Code of Practice on Equal Pay and the Code of Practice on Employment and the Code of Practice on Services, Public Functions and Association. We will comply with the regulatory framework for social housing providers.
+## Roles of the co-ordinators
+
+The co-op elects members to commit with a remit to co-ordinate 
+
+The ED&I co-ordinators have the following specific functions:
+
+- To ensure that ASH Co-op meets its obligations under the Equality Act 2010
+- To work with ASH Co-op members in taking a proactive role to advance equality of opportunity for all. We will comply with Equality Codes of Practice issued by the Equality and Human Rights Commission;
+- - including the Code of Practice on Equal Pay and the Code of Practice on Employment and the Code of Practice on Services, Public Functions and Association. We will comply with the regulatory framework for social housing providers.
+- To be the first point of contact for ASH Co-op members experiencing issues relating to the issues stated in the purpose of this policy.
+- To work with the secretarial group and any other co-op to ensure that this policy is reviewed regularly. 
 
 ## Scope of Policy
 
