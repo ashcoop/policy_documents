@@ -27,7 +27,7 @@ ASH Co-op believes that everyone has the right to be treated with dignity and re
 - Marriage and Civil Partnership
 - Pregnancy and Maternity
 - Gender Reassignment
-- Religion & non-religion
+- Religion & Belief
 - Disability
 
 See also the appendix
