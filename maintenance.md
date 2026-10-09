@@ -239,6 +239,14 @@ The following were voted on in the GM of 7/10/2021 but no discussion was had in 
 
 That the co-op adopts an overall policy of installing and allowing to operate automated humidistat fans across site to keep on top of damp and mould issues in bathrooms." Addressed tension between energy-efficient automated fans and members' preference for manual on/off control.
 
+## Legislation and Policy Review
+The Maintenance Group will review this policy at least annually to establish best practice and ensure
+compliance with legislation.
+
+The repair priorities and repair reporting procedure have been amended in October 2026 to bring
+practice in line with Awaab’s Law, enacted as part of the Social Housing (Regulation) Act 2023.
+
+
   
 
 
