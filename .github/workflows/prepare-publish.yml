@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       file:
-        description: "Path of the markdown file, e.g. allocations.md"
+        description: "Path of the markdown file, e.g. membership.md"
         required: true
 
 permissions:
@@ -47,7 +47,7 @@ jobs:
         id: ai
         uses: actions/ai-inference@v1
         with:
-          model: openai/gpt-4o-mini
+          model: openai/gpt-4.1-mini
           prompt: ${{ steps.log.outputs.prompt }}
 
       - name: Create branch and PR
