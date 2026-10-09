@@ -48,68 +48,60 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 ## Response Times
 
 1. There are four categories of repairs:
-   * **EMERGENCY REPAIRS:** (Dealt with within 24 hours)
-     * Any damage to a property that affects the health or security of the occupants (e.g. dangerous electrical fittings, blocked drains etc.).
-     * Any repairs resulting from a burglary which affect the security of the occupants.
-     * Any damage arising from incidents of harassment (racial, sexual or other).
-     * Any part of the external structure which is a danger to the public.
-   * **ESSENTIAL REPAIRS:** Problems that cause serious inconvenience and/or damage, such as leaking pipes, damaged guttering etc. (Dealt with within 5 working days).
-   * **PRIORITY ONE REPAIRS:** Defects and problems not causing undue inconvenience, such as cracked floor tiles, faulty cupboard doors etc. (Dealt with within 15 working days).
-   * **PRIORITY TWO REPAIRS:** General minor issues. (Dealt with within 30 working days).
 
-2. A general guide to different repairs shall be as follows:
+- **EMERGENCY REPAIRS:** (Emergency Hazard)
+ - To be dealt with within 24 hours
+ - No lights/power
+ - Exposed wires/dangerous electrical fittings
+ - Water penetration to electrics
+ - Serious roof leak or damage through water penetration
+ - Badly leaking water/central heating pipes
+ - Gas/Carbon Monoxide leak
+ - Broken glazing/glass where there is danger to life
+ - External doors that are not secure
+ - Severe damp and mould presenting that is having a material impact on a person’s health
+ - Significant structural failure or risk of structural collapse
+ - Damage to known asbestos or suspicious of asbestos present in property that has been damaged
+Where the property cannot be made safe within the required time frame, suitable alternative accommodation should be offered.
 
-   **EMERGENCY:**
-   * No lights/power
-   * Exposed wires or dangerous electrical fittings, e.g. water penetration to mains head.
-   * Serious roof leak or damage through water penetration
-   * Badly leaking water or central heating pipes
-   * Gas leaks
-   * Glazing where security or danger to life is involved
-   * All external doors that cannot be made secure
+- **ESSENTIAL REPAIRS:** (Significant Hazard) to deal with within 5 working days
+ - No staircase lighting
+ - Over heating of switches/sockets or flickering lights
+ - Broken/cracked WC pan
+ - Leaking flush pipe
+ - Blocked drain/waste pipe
+ - Broken joint of WC pan or soil pipe
+ - Faulty ball valves
+ - Non-emergency roof leaks
+ - Broken/missing sections of guttering/rain water pipes
+ - Cooker problems
+ - Loose banisters/balustrades/stair treads
+ - Damp or mould, left unaddressed that could potentially cause material impact on a persons health
+ - Extraction or ventilation issues
+ - Damaged fire doors or closers
 
-   **ESSENTIAL:**
-   * No staircase lighting
-   * Over heating of switches or socket outlets or flickering lights
-   * Broken or cracked WC pan
-   * Leaking flush pipe
-   * Clear blocked drain or waste pipe
-   * Remake joint of WC pan or soil pipe
-   * Repair soil pipe
-   * Replacement of faulty ball valves
-   * Non emergency roof leaks
-   * Replace or repair broken or missing sections of guttering or rain water pipes
-   * Repair cookers
-   * Repair loose banisters, balustrades or stair treads
+- **PRIORITY REPAIRS:** 15 working days
+ - Non emergency glazing
+ - External waste pipes
+ - Refit of wash hand basin
+ - Waste trap problems
+ - Faulty drain valve/ Stopcock
+ - Hinges on internal doors
+ - Rotten/defective flooring
+ - Blocked gutters
+ - WC seats
 
-   **PRIORITY ONE:**
-   * Non emergency glazing
-   * Repair or replace external waste pipes
-   * Replace water storage tank
-   * Refit or replace wash basin
-   * Replace waste trap
-   * Attend to faulty stop valve or drain off cock or tap
-   * Extraction or ventilation system
-   * Replace sash fasteners or cords
-   * Replace hinges on internal doors
-   * Replace rotten or defective flooring
-   * Clear blocked gutters
-
-   **PRIORITY TWO:**
-   * Fix or repair bath panel or framework
-   * Fix or repair loose kitchen units or worktop
-   * Replace WC seat
-   * Replace wash basin, bath or sink unit
-   * Repair tiles or surround including making good silicone sealant
-   * Pointing to reveals of door or window frame
-   * Fixing of air bricks or air vents
-   * General flooring repairs
-   * Ease or adjust external doors and repair or replace frame
-   * Replace or renew zinc/lead roof fittings
-   * Patch repair plasterwork to internal walls & ceilings
-   * Rebed and point joints to ridge tiles
-   * Repair flashings
-   * Repoint brickwork
+- **ROUTINE REPAIRS:** 30 working days
+ - Bath panel/framework repairs
+ - Loose kitchen worktops/units
+ - WC seats
+ - Replacement of wash hand basin, Bath
+ - Tiling/sealing
+ - Pointing around doors & windows
+ - Fixing of air bricks/vents
+ - Flooring repairs
+ - Adjustment of external doors/frames
+ - Leading on roof. Internal plasterwork. Pointing on brickwork
 
 ---
 
@@ -243,23 +235,6 @@ The following were voted on in the GM of 7/10/2021 but no discussion was had in 
 That the co-op adopts an overall policy of installing and allowing to operate automated humidistat fans across site to keep on top of damp and mould issues in bathrooms." Addressed tension between energy-efficient automated fans and members' preference for manual on/off control.
 
   
-## APPENDIX 1: REPAIR PRIORITY GUIDE
-
-### EMERGENCY REPAIRS: to be dealt with within 24 hours.
-Co  de on database: ER
-No lights/power. Exposed wires/dangerous electrical fittings. Water penetration to electrics. Serious roof leak or damage through water penetration. Badly leaking water/central heating pipes. Gas leaks. Broken glazing/glass where there is danger to life. External doors that are not secure.
-
-### ESSENTIAL REPAIRS: to deal with within 5 working days.
-Code: ESS
-No staircase lighting. Over heating of switches/sockets or flickering lights. Broken/cracked WC pan. Leaking flush pipe. Blocked drain/waste pipe. Broken joint of WC pan or soil pipe. Faulty ball balves. Non-emergency roof leaks. Broken/missing sections of guttering/rain water pipes. Cooker problems. Loose banisters/balustrades/stair treads.
-
-### PRIORITY ONE REPAIRS: 15 working days.
-Code: 1
-Non emergency glazing. External waste pipes. Refit of WHB. Waste trap problems. Faulty stop valve/drain off cok/tap. Extraction or ventilation probs. Hinges on internal doors. Rotten/defective flooring. Blocked gutters.
-
-### PRIORITY TWO REPAIRS: 30 working days.
-Code: 2
-Bath panel/framework repairs. Loose kitchen worktops/units. WC seats. Replacement of WHB, Bath. Tiling/sealing. Pointing around doors & windows. Fixing of air bricks/vents. Flooring repairs. Adjustment of external doors/frames. Leading on roof. Internal plasterwork. Pointing on brickwork.
 
 
 
