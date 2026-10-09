@@ -1,0 +1,25 @@
+name: After publish
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  reset:
+    if: github.event.pull_request.merged && startsWith(github.head_ref, 'publish/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Move review baseline
+        env:
+          HEAD: ${{ github.head_ref }}
+        run: |
+          NAME="${HEAD#publish/}"
+          SLUG="${NAME%--*}"
+          SHA="${NAME##*--}"
+          git tag -f "baseline/$SLUG" "$SHA"
+          git push -f origin "refs/tags/baseline/$SLUG"
