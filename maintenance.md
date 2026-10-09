@@ -120,7 +120,7 @@ Where the property cannot be made safe within the required time frame, suitable 
 * Organise repair: Emergency within 24 hours, essential within 5 working days, priority within 15 working days, routine within 30 working days.
 * Upon completion: Repair closing form worked through with contractor and then with tenant, flag anything arising and assess satisfaction of repair.
 
-<img src="https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/reporting-flow-diag.png" alt="reporting a repair flow diagram" style="max-width: 100%; height: auto;">
+![reporting a repair flow diagram](https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/reporting-flow-diag.png)
 
 
 ## Authorising Repairs
