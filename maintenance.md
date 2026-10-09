@@ -102,7 +102,6 @@ Where the property cannot be made safe within the required time frame, suitable 
   * Adjustment of external doors/frames
   * Leading on roof. Internal plasterwork. Pointing on brickwork
 
----
 
 ## Maintenance Co-ordinators
 
@@ -111,7 +110,6 @@ Where the property cannot be made safe within the required time frame, suitable 
 3. The Maintenance Group shall also organise work done by Co-op members, particularly in the area of carpentry and joinery, glazing, painting and decorating.
 4. Work such as gas, electrical and plumbing work shall not be done by volunteers unless they have appropriate qualifications, as this could invalidate the Co-op's insurance.
 
----
 
 ## Reporting a Repair
 
@@ -124,7 +122,6 @@ Where the property cannot be made safe within the required time frame, suitable 
 
 <img src="https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/reporting-flow-diag.png" alt="reporting a repair flow diagram" style="max-width: 100%; height: auto;">
 
----
 
 ## Authorising Repairs
 
@@ -135,7 +132,6 @@ Where the property cannot be made safe within the required time frame, suitable 
 5. Using outside consultants (surveyors etc.) must be authorised by a General Meeting.
 6. **Emergency Repairs:** If an emergency arises that requires an immediate response to render the problem safe or secure, the obligation to receive written estimates in advance may be waived. The Maintenance Co-ordinators may authorise contractors verbally. An estimate for further work to resolve the problem permanently should be obtained and presented by the next GM if possible.
 
----
 
 ## Paying for Repairs
 
@@ -144,7 +140,6 @@ Where the property cannot be made safe within the required time frame, suitable 
 3. The invoice from the builder and the original estimate (where appropriate) shall be passed to the Treasurer or office workers. They shall check these against the original work order and authorise payment when all paperwork is correct.
 4. The Co-op shall receive a report each quarter on the maintenance budget.
 
----
 
 ## Planned and Cyclical Maintenance
 
@@ -163,7 +158,6 @@ Where the property cannot be made safe within the required time frame, suitable 
    * All void rooms shall be inspected when a member moves out, and repairs organised if possible before the room is re-let.
    * The Co-op shall not be responsible for the decoration of members' rooms. These must be kept in good condition. The Co-op has a trade account with a local supplier and will provide free silk or matt emulsion and gloss paint to decorate a room. The Co-op’s Paint Co-ordinator or Maintenance Co-ordinator organises getting the paint, tinting etc. The work shall be done by members living in the house (See the Co-op’s [paint policy](paint_policy.html)).
 
----
 
 ## Contractors List
 
@@ -179,7 +173,6 @@ Where the property cannot be made safe within the required time frame, suitable 
 4. For contractors with over 5 staff: A health and safety policy and an equal opportunities policy.
 5. All contractors should be sympathetic to trade and should avoid employing casual labour.
 
----
 
 ## Members rights
 
@@ -188,7 +181,6 @@ Where the property cannot be made safe within the required time frame, suitable 
 3. The Co-op will not take responsibility for repairs ordered outside this system, except in cases of extreme urgency where immediate action prevents further damage to Co-op property.
 4. The Maintenance Policy is a document of the Co-op, and can be added to or changed only through the democratic process of the Co-op.
 
----
 
 ## The Right to Repair compensation scheme
 
@@ -199,14 +191,12 @@ Where the property cannot be made safe within the required time frame, suitable 
 5. If the repair remains outstanding after this second period, the member shall be entitled to compensation. The compensation will be £10 plus £2 per day (up to a maximum of £50) for every day it remains outstanding.
 6. A Maintenance Co-ordinator, or in their absence, a General Meeting, must authorise all payments under this scheme.
 
----
 
 ## Monitoring the Repairs Service
 
 1. The Maintenance Co-ordinator shall report every quarter to the General Meeting about the Repairs Service. The Committee shall be responsible for monitoring the Repairs service.
 2. If less than 90% of the repairs are being done within the target times, the Co-op Co-ordinators will investigate and report back to a General Meeting.
 
----
 
 ## The Repairs system
 
@@ -216,7 +206,6 @@ Where the property cannot be made safe within the required time frame, suitable 
 4. In the case of major works (roofs, damp proofing, etc.), copies of guarantees shall be kept on the property file.
 5. All repairs must be entered into the maintenance database.
 
----
 
 ## Procurement
 
@@ -240,7 +229,7 @@ The following were voted on in the GM of 7/10/2021 but no discussion was had in 
 That the co-op adopts an overall policy of installing and allowing to operate automated humidistat fans across site to keep on top of damp and mould issues in bathrooms." Addressed tension between energy-efficient automated fans and members' preference for manual on/off control.
 
 ## Legislation and Policy Review
-The Maintenance Group will review this policy at least annually to establish best practice and ensure
+The Maintenance Group will co-ordinate reviews of this policy at least annually to establish best practice and ensure
 compliance with legislation.
 
 The repair priorities and repair reporting procedure have been amended in October 2026 to bring
