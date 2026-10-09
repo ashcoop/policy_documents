@@ -49,59 +49,59 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 
 1. There are four categories of repairs:
 
-- **EMERGENCY REPAIRS:** (Emergency Hazard)
- - To be dealt with within 24 hours
- - No lights/power
- - Exposed wires/dangerous electrical fittings
- - Water penetration to electrics
- - Serious roof leak or damage through water penetration
- - Badly leaking water/central heating pipes
- - Gas/Carbon Monoxide leak
- - Broken glazing/glass where there is danger to life
- - External doors that are not secure
- - Severe damp and mould presenting that is having a material impact on a person’s health
- - Significant structural failure or risk of structural collapse
- - Damage to known asbestos or suspicious of asbestos present in property that has been damaged
+* **EMERGENCY REPAIRS:** (Emergency Hazard)
+ * To be dealt with within 24 hours
+ * No lights/power
+ * Exposed wires/dangerous electrical fittings
+ * Water penetration to electrics
+ * Serious roof leak or damage through water penetration
+ * Badly leaking water/central heating pipes
+ * Gas/Carbon Monoxide leak
+ * Broken glazing/glass where there is danger to life
+ * External doors that are not secure
+ * Severe damp and mould presenting that is having a material impact on a person’s health
+ * Significant structural failure or risk of structural collapse
+ * Damage to known asbestos or suspicious of asbestos present in property that has been damaged
 Where the property cannot be made safe within the required time frame, suitable alternative accommodation should be offered.
 
-- **ESSENTIAL REPAIRS:** (Significant Hazard) to deal with within 5 working days
- - No staircase lighting
- - Over heating of switches/sockets or flickering lights
- - Broken/cracked WC pan
- - Leaking flush pipe
- - Blocked drain/waste pipe
- - Broken joint of WC pan or soil pipe
- - Faulty ball valves
- - Non-emergency roof leaks
- - Broken/missing sections of guttering/rain water pipes
- - Cooker problems
- - Loose banisters/balustrades/stair treads
- - Damp or mould, left unaddressed that could potentially cause material impact on a persons health
- - Extraction or ventilation issues
- - Damaged fire doors or closers
+* **ESSENTIAL REPAIRS:** (Significant Hazard) to deal with within 5 working days
+ * No staircase lighting
+ * Over heating of switches/sockets or flickering lights
+ * Broken/cracked WC pan
+ * Leaking flush pipe
+ * Blocked drain/waste pipe
+ * Broken joint of WC pan or soil pipe
+ * Faulty ball valves
+ * Non-emergency roof leaks
+ * Broken/missing sections of guttering/rain water pipes
+ * Cooker problems
+ * Loose banisters/balustrades/stair treads
+ * Damp or mould, left unaddressed that could potentially cause material impact on a persons health
+ * Extraction or ventilation issues
+ * Damaged fire doors or closers
 
-- **PRIORITY REPAIRS:** 15 working days
- - Non emergency glazing
- - External waste pipes
- - Refit of wash hand basin
- - Waste trap problems
- - Faulty drain valve/ Stopcock
- - Hinges on internal doors
- - Rotten/defective flooring
- - Blocked gutters
- - WC seats
+* **PRIORITY REPAIRS:** 15 working days
+ * Non emergency glazing
+ * External waste pipes
+ * Refit of wash hand basin
+ * Waste trap problems
+ * Faulty drain valve/ Stopcock
+ * Hinges on internal doors
+ * Rotten/defective flooring
+ * Blocked gutters
+ * WC seats
 
-- **ROUTINE REPAIRS:** 30 working days
- - Bath panel/framework repairs
- - Loose kitchen worktops/units
- - WC seats
- - Replacement of wash hand basin, Bath
- - Tiling/sealing
- - Pointing around doors & windows
- - Fixing of air bricks/vents
- - Flooring repairs
- - Adjustment of external doors/frames
- - Leading on roof. Internal plasterwork. Pointing on brickwork
+* **ROUTINE REPAIRS:** 30 working days
+ * Bath panel/framework repairs
+ * Loose kitchen worktops/units
+ * WC seats
+ * Replacement of wash hand basin, Bath
+ * Tiling/sealing
+ * Pointing around doors & windows
+ * Fixing of air bricks/vents
+ * Flooring repairs
+ * Adjustment of external doors/frames
+ * Leading on roof. Internal plasterwork. Pointing on brickwork
 
 ---
 
