@@ -3,10 +3,10 @@
 first_ratified: 03/07/2000 # (please don't alter this field)
 
 # date of last formal review
-last_reviewed: 07/10/2021
+last_reviewed: 06/10/2026
 
 # date of the GM where the amendments were ratified.
-last_updated: 07/09/2022
+last_updated: 06/10/2026
 
 ---
 
@@ -48,70 +48,60 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 ## Response Times
 
 1. There are four categories of repairs:
-   * **EMERGENCY REPAIRS:** (Dealt with within 24 hours)
-     * Any damage to a property that affects the health or security of the occupants (e.g. dangerous electrical fittings, blocked drains etc.).
-     * Any repairs resulting from a burglary which affect the security of the occupants.
-     * Any damage arising from incidents of harassment (racial, sexual or other).
-     * Any part of the external structure which is a danger to the public.
-   * **ESSENTIAL REPAIRS:** Problems that cause serious inconvenience and/or damage, such as leaking pipes, damaged guttering etc. (Dealt with within 5 working days).
-   * **PRIORITY ONE REPAIRS:** Defects and problems not causing undue inconvenience, such as cracked floor tiles, faulty cupboard doors etc. (Dealt with within 15 working days).
-   * **PRIORITY TWO REPAIRS:** General minor issues. (Dealt with within 30 working days).
 
-2. A general guide to different repairs shall be as follows:
+* **EMERGENCY REPAIRS:** (Emergency Hazard) To be dealt with within 24 hours
+  * No lights/power
+  * Exposed wires/dangerous electrical fittings
+  * Water penetration to electrics
+  * Serious roof leak or damage through water penetration
+  * Badly leaking water/central heating pipes
+  * Gas/Carbon Monoxide leak
+  * Broken glazing/glass where there is danger to life
+  * External doors that are not secure
+  * Severe damp and mould presenting that is having a material impact on a person’s health
+  * Significant structural failure or risk of structural collapse
+  * Damage to known asbestos or suspicious of asbestos present in property that has been damaged
+Where the property cannot be made safe within the required time frame, suitable alternative accommodation should be offered.
 
-   **EMERGENCY:**
-   * No lights/power
-   * Exposed wires or dangerous electrical fittings, e.g. water penetration to mains head.
-   * Serious roof leak or damage through water penetration
-   * Badly leaking water or central heating pipes
-   * Gas leaks
-   * Glazing where security or danger to life is involved
-   * All external doors that cannot be made secure
+* **ESSENTIAL REPAIRS:** (Significant Hazard) to deal with within 5 working days
+  * No staircase lighting
+  * Over heating of switches/sockets or flickering lights
+  * Broken/cracked WC pan
+  * Leaking flush pipe
+  * Blocked drain/waste pipe
+  * Broken joint of WC pan or soil pipe
+  * Faulty ball valves
+  * Non-emergency roof leaks
+  * Broken/missing sections of guttering/rain water pipes
+  * Cooker problems
+  * Loose banisters/balustrades/stair treads
+  * Damp or mould, left unaddressed that could potentially cause material impact on a persons health
+  * Extraction or ventilation issues
+  * Damaged fire doors or closers
 
-   **ESSENTIAL:**
-   * No staircase lighting
-   * Over heating of switches or socket outlets or flickering lights
-   * Broken or cracked WC pan
-   * Leaking flush pipe
-   * Clear blocked drain or waste pipe
-   * Remake joint of WC pan or soil pipe
-   * Repair soil pipe
-   * Replacement of faulty ball valves
-   * Non emergency roof leaks
-   * Replace or repair broken or missing sections of guttering or rain water pipes
-   * Repair cookers
-   * Repair loose banisters, balustrades or stair treads
+* **PRIORITY REPAIRS:** 15 working days
+  * Non emergency glazing
+  * External waste pipes
+  * Refit of wash hand basin
+  * Waste trap problems
+  * Faulty drain valve/ Stopcock
+  * Hinges on internal doors
+  * Rotten/defective flooring
+  * Blocked gutters
+  * WC seats
 
-   **PRIORITY ONE:**
-   * Non emergency glazing
-   * Repair or replace external waste pipes
-   * Replace water storage tank
-   * Refit or replace wash basin
-   * Replace waste trap
-   * Attend to faulty stop valve or drain off cock or tap
-   * Extraction or ventilation system
-   * Replace sash fasteners or cords
-   * Replace hinges on internal doors
-   * Replace rotten or defective flooring
-   * Clear blocked gutters
+* **ROUTINE REPAIRS:** 30 working days
+  * Bath panel/framework repairs
+  * Loose kitchen worktops/units
+  * WC seats
+  * Replacement of wash hand basin, Bath
+  * Tiling/sealing
+  * Pointing around doors & windows
+  * Fixing of air bricks/vents
+  * Flooring repairs
+  * Adjustment of external doors/frames
+  * Leading on roof. Internal plasterwork. Pointing on brickwork
 
-   **PRIORITY TWO:**
-   * Fix or repair bath panel or framework
-   * Fix or repair loose kitchen units or worktop
-   * Replace WC seat
-   * Replace wash basin, bath or sink unit
-   * Repair tiles or surround including making good silicone sealant
-   * Pointing to reveals of door or window frame
-   * Fixing of air bricks or air vents
-   * General flooring repairs
-   * Ease or adjust external doors and repair or replace frame
-   * Replace or renew zinc/lead roof fittings
-   * Patch repair plasterwork to internal walls & ceilings
-   * Rebed and point joints to ridge tiles
-   * Repair flashings
-   * Repoint brickwork
-
----
 
 ## Maintenance Co-ordinators
 
@@ -120,14 +110,18 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 3. The Maintenance Group shall also organise work done by Co-op members, particularly in the area of carpentry and joinery, glazing, painting and decorating.
 4. Work such as gas, electrical and plumbing work shall not be done by volunteers unless they have appropriate qualifications, as this could invalidate the Co-op's insurance.
 
----
 
-## Reporting Repairs
+## Reporting a Repair
 
-1. All repairs shall be reported immediately to the Co-op Maintenance Co-ordinator(s) or to the office workers in writing, preferably by the Member concerned. Repairs must be reported on the Co-op's Repairs Report form and/or entered directly onto the maintenance database.
-2. The Maintenance Co-ordinator and the office workers should work jointly to track repairs and keep the database up to date after each action.
+* Report a repair: Can be reported in writing or verbally, in either case should eventually be formatted into a repair report form and filed. The Co-op will acknowledge the report back to the tenants, including the other tenants in the case of a shared house.
+* Investigate and assess repair: Carried out within 10 working days of the report, repair category assigned. (If the repair is suspected to be an emergency, this time frame shortens to be 24 hours to assess, and 24 hours to respond)
+* As part of assessing, the Co-op will also refer to known risk factors of existing tenants, and provide the opportunity to advise the Co-op of any present vulnerabilities, that may affect the urgency of the repair.
+* Tenant informed of repair timeframe within 3 working days.
+* Organise repair: Emergency within 24 hours, essential within 5 working days, priority within 15 working days, routine within 30 working days.
+* Upon completion: Repair closing form worked through with contractor and then with tenant, flag anything arising and assess satisfaction of repair.
 
----
+<img src="https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/reporting-flow-diag.png" alt="reporting a repair flow diagram" style="max-width: 100%; height: auto;">
+
 
 ## Authorising Repairs
 
@@ -138,7 +132,6 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 5. Using outside consultants (surveyors etc.) must be authorised by a General Meeting.
 6. **Emergency Repairs:** If an emergency arises that requires an immediate response to render the problem safe or secure, the obligation to receive written estimates in advance may be waived. The Maintenance Co-ordinators may authorise contractors verbally. An estimate for further work to resolve the problem permanently should be obtained and presented by the next GM if possible.
 
----
 
 ## Paying for Repairs
 
@@ -147,7 +140,6 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 3. The invoice from the builder and the original estimate (where appropriate) shall be passed to the Treasurer or office workers. They shall check these against the original work order and authorise payment when all paperwork is correct.
 4. The Co-op shall receive a report each quarter on the maintenance budget.
 
----
 
 ## Planned and Cyclical Maintenance
 
@@ -166,7 +158,6 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
    * All void rooms shall be inspected when a member moves out, and repairs organised if possible before the room is re-let.
    * The Co-op shall not be responsible for the decoration of members' rooms. These must be kept in good condition. The Co-op has a trade account with a local supplier and will provide free silk or matt emulsion and gloss paint to decorate a room. The Co-op’s Paint Co-ordinator or Maintenance Co-ordinator organises getting the paint, tinting etc. The work shall be done by members living in the house (See the Co-op’s [paint policy](paint_policy.html)).
 
----
 
 ## Contractors List
 
@@ -182,7 +173,6 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 4. For contractors with over 5 staff: A health and safety policy and an equal opportunities policy.
 5. All contractors should be sympathetic to trade and should avoid employing casual labour.
 
----
 
 ## Members rights
 
@@ -191,7 +181,6 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 3. The Co-op will not take responsibility for repairs ordered outside this system, except in cases of extreme urgency where immediate action prevents further damage to Co-op property.
 4. The Maintenance Policy is a document of the Co-op, and can be added to or changed only through the democratic process of the Co-op.
 
----
 
 ## The Right to Repair compensation scheme
 
@@ -202,14 +191,12 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 5. If the repair remains outstanding after this second period, the member shall be entitled to compensation. The compensation will be £10 plus £2 per day (up to a maximum of £50) for every day it remains outstanding.
 6. A Maintenance Co-ordinator, or in their absence, a General Meeting, must authorise all payments under this scheme.
 
----
 
 ## Monitoring the Repairs Service
 
 1. The Maintenance Co-ordinator shall report every quarter to the General Meeting about the Repairs Service. The Committee shall be responsible for monitoring the Repairs service.
 2. If less than 90% of the repairs are being done within the target times, the Co-op Co-ordinators will investigate and report back to a General Meeting.
 
----
 
 ## The Repairs system
 
@@ -219,7 +206,6 @@ All tools must be signed in on return. Tools can be borrowed for a maximum of 72
 4. In the case of major works (roofs, damp proofing, etc.), copies of guarantees shall be kept on the property file.
 5. All repairs must be entered into the maintenance database.
 
----
 
 ## Procurement
 
@@ -242,24 +228,15 @@ The following were voted on in the GM of 7/10/2021 but no discussion was had in 
 
 That the co-op adopts an overall policy of installing and allowing to operate automated humidistat fans across site to keep on top of damp and mould issues in bathrooms." Addressed tension between energy-efficient automated fans and members' preference for manual on/off control.
 
+## Legislation and Policy Review
+The Maintenance Group will co-ordinate reviews of this policy at least annually to establish best practice and ensure
+compliance with legislation.
+
+The repair priorities and repair reporting procedure have been amended in October 2026 to bring
+practice in line with Awaab’s Law, enacted as part of the Social Housing (Regulation) Act 2023.
+
+
   
-## APPENDIX 1: REPAIR PRIORITY GUIDE
-
-### EMERGENCY REPAIRS: to be dealt with within 24 hours.
-Co  de on database: ER
-No lights/power. Exposed wires/dangerous electrical fittings. Water penetration to electrics. Serious roof leak or damage through water penetration. Badly leaking water/central heating pipes. Gas leaks. Broken glazing/glass where there is danger to life. External doors that are not secure.
-
-### ESSENTIAL REPAIRS: to deal with within 5 working days.
-Code: ESS
-No staircase lighting. Over heating of switches/sockets or flickering lights. Broken/cracked WC pan. Leaking flush pipe. Blocked drain/waste pipe. Broken joint of WC pan or soil pipe. Faulty ball balves. Non-emergency roof leaks. Broken/missing sections of guttering/rain water pipes. Cooker problems. Loose banisters/balustrades/stair treads.
-
-### PRIORITY ONE REPAIRS: 15 working days.
-Code: 1
-Non emergency glazing. External waste pipes. Refit of WHB. Waste trap problems. Faulty stop valve/drain off cok/tap. Extraction or ventilation probs. Hinges on internal doors. Rotten/defective flooring. Blocked gutters.
-
-### PRIORITY TWO REPAIRS: 30 working days.
-Code: 2
-Bath panel/framework repairs. Loose kitchen worktops/units. WC seats. Replacement of WHB, Bath. Tiling/sealing. Pointing around doors & windows. Fixing of air bricks/vents. Flooring repairs. Adjustment of external doors/frames. Leading on roof. Internal plasterwork. Pointing on brickwork.
 
 
 
