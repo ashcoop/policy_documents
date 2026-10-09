@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       file:
-        description: "Path of the markdown file, e.g. content/about.md"
+        description: "Path of the markdown file, e.g. allocations.md"
         required: true
 
 permissions:
