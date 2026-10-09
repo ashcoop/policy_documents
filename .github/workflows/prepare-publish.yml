@@ -3,13 +3,12 @@ on:
   workflow_dispatch:
     inputs:
       file:
-        description: "Path of the markdown file, e.g. membership.md"
+        description: "Filename of the policy document, e.g. membership.md"
         required: true
 
 permissions:
   contents: write
   pull-requests: write
-  models: read
 
 jobs:
   prepare:
@@ -35,34 +34,22 @@ jobs:
           fi
           git log --reverse --format='- %s (%an, %as)%n%b' "$BASE..origin/reviews" -- "$FILE" > log.txt
           [ -s log.txt ] || { echo "No review commits for $FILE"; exit 1; }
-          {
-            echo "slug=$SLUG"; echo "sha=$SHA"
-            echo "prompt<<EOF"
-            echo "Summarise these commits to ONE policy document as a git commit message: a short subject line (max 70 chars), a blank line, then 3-6 bullet points of the substantive changes. Plain text, no preamble."
-            echo; cat log.txt
-            echo "EOF"
-          } >> "$GITHUB_OUTPUT"
-
-      - name: Draft summary with GitHub Models
-        id: ai
-        uses: actions/ai-inference@v1
-        with:
-          model: openai/gpt-4.1-mini
-          prompt: ${{ steps.log.outputs.prompt }}
+          echo "slug=$SLUG" >> "$GITHUB_OUTPUT"
+          echo "sha=$SHA" >> "$GITHUB_OUTPUT"
 
       - name: Create branch and PR
         env:
           SLUG: ${{ steps.log.outputs.slug }}
           SHA: ${{ steps.log.outputs.sha }}
-          SUMMARY: ${{ steps.ai.outputs.response }}
         run: |
           BR="publish/$SLUG--$SHA"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BR" origin/main
-          git checkout "$SHA" -- "$FILE" 2>/dev/null || git checkout origin/reviews -- "$FILE"
+          git checkout "$SHA" -- "$FILE"
           git commit -m "Publish reviewed version of $FILE"
           git push origin "$BR"
-          TITLE=$(printf '%s\n' "$SUMMARY" | head -n1)
-          BODY=$(printf '%s\n' "$SUMMARY" | tail -n +3)
-          gh pr create --base main --head "$BR" --title "$TITLE" --body "$BODY"
+          { echo "Changes reviewed since the last publish:"; echo; cat log.txt; } > body.md
+          gh pr create --base main --head "$BR" \
+            --title "Publish reviewed changes to $FILE" \
+            --body-file body.md
