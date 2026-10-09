@@ -102,6 +102,7 @@ Where the property cannot be made safe within the required time frame, suitable 
   * Adjustment of external doors/frames
   * Leading on roof. Internal plasterwork. Pointing on brickwork
 
+<img src="https://pub-4efb4a35b7c24de281aeb2d7b379cd14.r2.dev/reporting-flow-diag.png" alt="reporting a repair flow diagram" style="max-width: 100%; height: auto;">
 ---
 
 ## Maintenance Co-ordinators
