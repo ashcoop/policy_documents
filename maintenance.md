@@ -113,10 +113,14 @@ Where the property cannot be made safe within the required time frame, suitable 
 
 ---
 
-## Reporting Repairs
+## Reporting a Repair
 
-1. All repairs shall be reported immediately to the Co-op Maintenance Co-ordinator(s) or to the office workers in writing, preferably by the Member concerned. Repairs must be reported on the Co-op's Repairs Report form and/or entered directly onto the maintenance database.
-2. The Maintenance Co-ordinator and the office workers should work jointly to track repairs and keep the database up to date after each action.
+* Report a repair: Can be reported in writing or verbally, in either case should eventually be formatted into a repair report form and filed. The Co-op will acknowledge the report back to the tenants, including the other tenants in the case of a shared house.
+* Investigate and assess repair: Carried out within 10 working days of the report, repair category assigned. (If the repair is suspected to be an emergency, this time frame shortens to be 24 hours to assess, and 24 hours to respond)
+* As part of assessing, the Co-op will also refer to known risk factors of existing tenants, and provide the opportunity to advise the Co-op of any present vulnerabilities, that may affect the urgency of the repair.
+* Tenant informed of repair timeframe within 3 working days.
+* Organise repair: Emergency within 24 hours, essential within 5 working days, priority within 15 working days, routine within 30 working days.
+* Upon completion: Repair closing form worked through with contractor and then with tenant, flag anything arising and assess satisfaction of repair.
 
 ---
 
